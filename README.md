@@ -31,6 +31,8 @@ Før vi lager bokstruktur og innhold, skal vi:
 - [AI-arbeidsflyt](AI_WORKFLOW.md)
 - [Bokstandard](docs/standards/9trinn-matte.md)
 - [Agentroller](docs/ai/agent-roles.md)
+- [AI-agentinstruksjoner](AGENTS.md)
+- [Første skill: læreplanlegging](ai/skills/map-curriculum/SKILL.md)
 - [Arkitekturbeslutning 0001](docs/decisions/0001-repository-scope.md)
 - [Bidragsveiledning](CONTRIBUTING.md)
 
