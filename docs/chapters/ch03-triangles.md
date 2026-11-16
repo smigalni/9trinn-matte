@@ -57,8 +57,6 @@ En trekant har tre sider og tre vinkler. Vi kan klassifisere trekanter etter sid
 
 ### Vinkelsummen i en trekant
 
-<mark></mark>
-
 !!! important "Vinkelsummen i en trekant"
 
     Summen av de tre vinklene i en trekant er alltid $180^\circ$.
@@ -112,19 +110,21 @@ Tegn to likebeinte trekanter med ulik toppvinkel. Mål grunnvinklene i begge tre
 
     a) Hva slags trekant er den klassifisert etter sidelengdene?
 
-    b) Kan du avgjøre om trekanten er spissvinklet, rettvinklet eller stumpvinklet uten å måle vinklene? Begrunn.
+    b) Hvis toppvinkelen er $80^\\circ$, hvor store er grunnvinklene?
 
 ??? note "Fasit – oppgave 3.1.1"
 
     a) Den er likebeint fordi to av sidene er like lange.
 
-    b) Ja. Den lengste siden er 8 cm. Vi undersøker:
+    b) Grunnvinklene er like store. Vinkelsummen er $180^\\circ$, så hver grunnvinkel er
 
-    $$
-    5^2+5^2=50<64=8^2
-    $$
+    $
+    \\frac{180^\\circ-80^\\circ}{2}=50^\\circ.
+    $
 
-    Trekanten er stumpvinklet. Dette følger av den omvendte sammenhengen til Pytagoras, som vi møter senere i kapitlet.
+    $
+    \\underline{\\underline{50^\\circ}}
+    $
 
 !!! question "Oppgave 3.1.2 – Vinkelsum"
 
