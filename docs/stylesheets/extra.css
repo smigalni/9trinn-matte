@@ -1,0 +1,102 @@
+/* Første implementasjon av felles designstandarder fra math-platform.
+   Flyttes/synkroniseres til felles designpakke når plattformen er klar. */
+
+:root {
+  --math-blue: #3157a4;
+  --math-teal: #087f8c;
+  --math-purple: #7650b5;
+  --math-orange: #d97706;
+  --math-soft-blue: #edf3ff;
+  --math-soft-teal: #e8f7f5;
+  --math-soft-purple: #f5f0ff;
+}
+
+.md-typeset h1,
+.md-typeset h2 { color: var(--math-blue); }
+
+.md-typeset h3 { color: var(--math-teal); }
+
+.md-typeset a {
+  text-decoration-color: #6b91d6;
+  text-underline-offset: .16em;
+}
+
+.md-typeset a:hover { color: var(--math-teal); }
+
+.md-typeset mjx-container[display="true"] {
+  margin: .65rem 0 !important;
+}
+
+.md-typeset .admonition,
+.md-typeset details { border-radius: .6rem; box-shadow: none; }
+
+.md-typeset .admonition-title,
+.md-typeset summary { font-weight: 700; }
+
+/* Viktige regler og formler – blå boks. Ikke legg svart ramme rundt formler. */
+.md-typeset .admonition.important {
+  border: 2px solid #2563eb !important;
+  border-left: 6px solid #2563eb !important;
+  background: var(--math-soft-blue) !important;
+  border-radius: .7rem;
+}
+
+.md-typeset .admonition.important > .admonition-title {
+  background: #dbeafe !important;
+  color: #1e40af !important;
+}
+
+/* Gjennomarbeidede eksempler – turkis. */
+.md-typeset .admonition.example {
+  border: 2px solid var(--math-teal);
+  border-left-width: 6px;
+  background: var(--math-soft-teal);
+  border-radius: .7rem;
+}
+
+.md-typeset .admonition.example > .admonition-title {
+  background: #ccfbf1;
+  color: #115e59;
+}
+
+/* Elevoppgaver – lilla. */
+.md-typeset .admonition.question {
+  border: 1px solid var(--math-purple) !important;
+  border-left: 5px solid var(--math-purple) !important;
+  background: var(--math-soft-purple) !important;
+  border-radius: .7rem;
+}
+
+.md-typeset .admonition.question > .admonition-title {
+  background: #ede9fe !important;
+  color: #5b21b6 !important;
+}
+
+.md-typeset .admonition p {
+  margin-top: .4rem;
+  margin-bottom: .4rem;
+}
+
+.md-typeset .admonition mjx-container[display="true"] {
+  margin: .55rem 0 !important;
+}
+
+.md-typeset table:not([class]) th {
+  background: var(--math-soft-blue);
+  color: #203b70;
+}
+
+.md-typeset blockquote { border-left-color: var(--math-teal); }
+
+@media print {
+  .md-header,
+  .md-tabs,
+  .md-sidebar,
+  .md-footer,
+  .md-top {
+    display: none !important;
+  }
+
+  .md-main__inner { margin: 0; }
+  .md-content { max-width: 100%; }
+}
