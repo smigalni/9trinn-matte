@@ -150,4 +150,4 @@ Kilde: https://www.udir.no/lk20/mat01-06/kompetansemaal-og-vurdering/kv1028?lang
 
 **Gjennomført i kildekoden:** struktur, lokale oppgaver og fasiter, hierarkisk nummerering, visuelle komponenter, dobbel understrek og de nevnte matematiske/pedagogiske rettingene.
 
-**Gjenstår før godkjenning:** fullstendig uavhengig kontroll av alle matematiske svar, kontroll av alle MathJax-uttrykk i faktisk bygget side, visuell kontroll på mobil/PC/utskrift, lærerreview og elevutprøving. CI for den siste revisjonen må også bekreftes.
+**Gjenstår før godkjenning:** fullstendig uavhengig kontroll av alle matematiske svar, kontroll av alle MathJax-uttrykk i faktisk bygget side, visuell kontroll på mobil/PC/utskrift, lærerreview og elevutprøving. CI for siste kontrollerte kapittelversjon bestod i run #37 (commit `8e0093f`). Den bygde HTML-filen ble kontrollert: 24 oppgavebokser, 24 sammenfoldede fasitbokser, 9 eksempler, 6 regelbokser, MathJax-markering og begge SVG-bildelenkene var til stede. En headless nettleserskjermdump for mobil/desktop lot seg ikke gjennomføre i dette miljøet; faktisk visuell mobil-/utskriftskontroll gjenstår.
