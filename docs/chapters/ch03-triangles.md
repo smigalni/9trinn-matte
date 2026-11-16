@@ -214,9 +214,9 @@ $$
 
 Sammenhengen stemmer. Trekanten er rettvinklet.
 
-### Hvorfor er sideforholdet i en 30°–60°–90°-trekant 1 : √3 : 2?
+### Særlige trekantforhold: 30°–60°–90°-trekanter
 
-Vi kan nå begrunne forholdet vi undersøkte i 3.2. Tenk på en likesidet trekant med sidelengde $2a$. Høyden deler trekanten i to rettvinklede trekanter. Den korteste kateten er $a$, og hypotenusen er $2a$.
+Vi kan nå begrunne sideforholdet ved hjelp av Pytagoras. Tenk på en likesidet trekant med sidelengde $2a$. Høyden deler trekanten i to rettvinklede trekanter. Den korteste kateten er $a$, og hypotenusen er $2a$.
 
 La den lengste kateten være $h$. Med Pytagoras får vi
 
@@ -240,43 +240,26 @@ $
 1:\sqrt{3}:2
 $
 
-### Særlige trekantforhold: 30°–60°–90°-trekanter
-
-Noen trekanter har så regelmessige vinkler at vi kan finne bestemte forhold mellom sidene.
-
-I en likesidet trekant er alle vinklene $60^\circ$. Hvis vi tegner høyden fra toppen, deler høyden trekanten i to like rettvinklede trekanter.
-
-Da får vi en rettvinklet trekant med vinklene $30^\circ$, $60^\circ$ og $90^\circ$.
-
-Hvis den opprinnelige likesidede trekanten har sidelengde $2a$, blir den korteste kateten $a$, og hypotenusen er $2a$. Vi kan finne lengden av den andre kateten med Pytagoras.
-
-Dermed er sideforholdet
-
-$
-1:\sqrt{3}:2
-$
-
-Dermed får vi sideforholdet $1:\sqrt{3}:2$. Dette gjelder for alle rettvinklede trekanter med vinklene $30^\circ$, $60^\circ$ og $90^\circ$.
-
-**Eksempel 7**
+**Eksempel 7 – Bruk sideforholdet**
 
 En rettvinklet trekant har vinklene $30^\circ$, $60^\circ$ og $90^\circ$. Hypotenusen er 10 cm. Finn de to katetene.
 
-Forholdet er $1:\sqrt{3}:2$. Hypotenusen svarer til 2 deler. Én del er derfor
+Sideforholdet er $1:\sqrt{3}:2$. Hypotenusen svarer til 2 deler. Én del er derfor
 
-$
+$$
 10:2=5
-$
+$$
 
 Katetene er
 
-$
+$$
 5\text{ cm}\quad\text{og}\quad 5\sqrt{3}\text{ cm}
-$
+$$
 
 Den lengste kateten er omtrent $8{,}66$ cm.
 
 **Viktig:** Ikke bruk dette sideforholdet på en vilkårlig rettvinklet trekant. Det gjelder bare når vinklene er $30^\circ$, $60^\circ$ og $90^\circ$.
+
 
 
 ### Vanlige feil
@@ -294,7 +277,7 @@ To figurer er formlike når de har samme form, men ikke nødvendigvis samme stø
 
 Hvis en side i den ene figuren er dobbelt så lang som den tilsvarende siden i den andre, er målestokken mellom figurene 2:1.
 
-**Eksempel 7 – Målestokk**
+**Eksempel 8 – Målestokk**
 
 På et kart er avstanden mellom to steder 3 cm. Kartet har målestokk 1:50 000. Hvor langt er det i virkeligheten?
 
