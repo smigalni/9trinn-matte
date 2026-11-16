@@ -28,6 +28,7 @@ Før vi lager bokstruktur og innhold, skal vi:
 - [Visjon](VISION.md)
 - [Produktplan](BOOK_PLAN.md)
 - [Læreplan og progresjon](CURRICULUM_MAP.md)
+- [Sporbar kompetansemålkartlegging](docs/curriculum/9th-grade-coverage.md)
 - [AI-arbeidsflyt](AI_WORKFLOW.md)
 - [Bokstandard](docs/standards/9trinn-matte.md)
 - [Agentroller](docs/ai/agent-roles.md)
