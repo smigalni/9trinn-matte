@@ -817,7 +817,7 @@ I disse oppgavene må du selv vurdere hvilke begreper og metoder som passer. Noe
 
     a) $\\underline{\\underline{\\text{Spissvinklet}}}$.
 
-    b) To vinkler er like store. Da er de motstående sidene like lange, og $\\underline{\\underline{\\text{trekanten er likebeint}}}$.
+    b) Tegn vinkelhalveringslinjen fra toppvinkelen. De to trekantene som dannes, har samme vinkel ved toppen, samme vinkel ved grunnlinjen og en felles side. De er kongruente etter vinkel–side–vinkel. Derfor er de to sidene fra toppen like lange, og $\\underline{\\underline{\\text{trekanten er likebeint}}}$.
 
 !!! question "Oppgave 3.7.2 – Pytagoras eller formlikhet?"
 
