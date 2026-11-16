@@ -114,11 +114,7 @@ I en likesidet trekant er alle vinklene $60^\circ$. Hvis vi tegner høyden fra t
 
 Da får vi en rettvinklet trekant med vinklene $30^\circ$, $60^\circ$ og $90^\circ$.
 
-Hvis den opprinnelige likesidede trekanten har sidelengde $2a$, blir sidene i den rettvinklede trekanten:
-
-- korteste katet: $a$
-- lengste katet: $a\sqrt{3}$
-- hypotenus: $2a$
+Hvis den opprinnelige likesidede trekanten har sidelengde $2a$, blir den korteste kateten $a$, og hypotenusen er $2a$. Lengden av den andre kateten begrunner vi med Pytagoras i neste del av kapitlet.
 
 Dermed er sideforholdet
 
@@ -126,7 +122,7 @@ $$
 1:\sqrt{3}:2
 $$
 
-Dette forholdet gjelder for alle rettvinklede trekanter med vinklene $30^\circ$, $60^\circ$ og $90^\circ$.
+Når vi har begrunnet lengden av den lengste kateten, får vi sideforholdet $1:\sqrt{3}:2$. Dette gjelder for alle rettvinklede trekanter med vinklene $30^\circ$, $60^\circ$ og $90^\circ$.
 
 **Eksempel 3**
 
@@ -254,6 +250,32 @@ $$
 
 Sammenhengen stemmer. Trekanten er rettvinklet.
 
+### Hvorfor er sideforholdet i en 30°–60°–90°-trekant 1 : √3 : 2?
+
+Vi kan nå begrunne forholdet vi undersøkte i 3.2. Tenk på en likesidet trekant med sidelengde $2a$. Høyden deler trekanten i to rettvinklede trekanter. Den korteste kateten er $a$, og hypotenusen er $2a$.
+
+La den lengste kateten være $h$. Med Pytagoras får vi
+
+$
+a^2+h^2=(2a)^2
+$
+
+$
+h^2=4a^2-a^2=3a^2
+$
+
+Siden en sidelengde er positiv, er
+
+$
+h=a\sqrt{3}
+$
+
+Sidene i den rettvinklede trekanten er altså $a$, $a\sqrt{3}$ og $2a$. Når vi deler alle sidene på $a$, får vi forholdet
+
+$
+1:\sqrt{3}:2
+$
+
 ### Vanlige feil
 
 - Å bruke Pytagoras i en trekant som ikke er rettvinklet.
@@ -336,6 +358,7 @@ En rettvinklet trekant har katetene $a$ og $b$.
 4. Dobbel bare den ene kateten. Hva skjer nå?
 5. Formuler en regel med egne ord.
 6. Forklar hvorfor regelen stemmer ved hjelp av Pytagoras.
+7. Hvis bare kateten $a$ økes til $a+d$, mens $b$ er uendret, blir den nye hypotenusen $c'=\sqrt{(a+d)^2+b^2}$. Sammenlign $c'$ med den opprinnelige hypotenusen. Forklar hvorfor hypotenusen øker når $d>0$.
 
 Når du utforsker, skal du skille mellom det du observerer i eksemplene, og det du kan begrunne matematisk.
 
@@ -400,6 +423,7 @@ Når du utforsker, skal du skille mellom det du observerer i eksemplene, og det 
 14. Når begge katetene ganges med en faktor $k$, blir hypotenusen også ganget med $k$: $c'=\sqrt{(ka)^2+(kb)^2}=k\sqrt{a^2+b^2}=kc$ for $k>0$.
 15. Eksempler er $3$–$4$–$5$, $5$–$12$–$13$ og $8$–$15$–$17$. I hvert tilfelle er summen av kvadratene av de to korteste sidene lik kvadratet av den lengste.
 16. Den tredje vinkelen blir henholdsvis $100^\circ$, $90^\circ$ og $70^\circ$. Alle tre trekantene er mulige fordi vinkelsummen er $180^\circ$ og alle vinklene er positive. Sidene endrer lengde selv om grunnlinjen er fast. Flere tegninger eller en konstruksjon kan brukes til å undersøke mønsteret.
+I utforskingsoppgave 3.5 nr. 7 kan eleven sammenligne $c'^2=(a+d)^2+b^2$ med $c^2=a^2+b^2$. Differansen er $2ad+d^2$, som er positiv når $a>0$ og $d>0$. Derfor er $c'>c$.
 
 ---
 
