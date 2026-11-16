@@ -6,15 +6,15 @@ Dette repoet inneholder lærebokinnhold for 9. trinn. Les disse filene før du a
 2. `VISION.md` og `BOOK_PLAN.md`
 3. `CURRICULUM_MAP.md`
 4. `AI_WORKFLOW.md`
-5. `docs/standards/9trinn-matte.md)
-6. Relevante beslutninger under `docs/decisions/`
+5. `docs/standards/9trinn-matte.md`
+6. Relevante beslutninger under `docs/architecture/`
+7. Relevant pilot- eller kapittelspesifikasjon før du skriver bokinnhold
 
 ## Ufravikelige regler
 
 - Bruk gjeldende læreplan MAT01-06 og kontroller Udir ved læreplanavhengige oppgaver.
 - Ikke finn på kompetansemål, forkunnskaper eller faglige krav.
-- Ikke fastsett kapittelrekkefølge før progresjonsanalysen er ferdig.
-- Skill mellom fakta, forslag og vedtatte beslutninger.
+- Følg vedtatte beslutninger. Skill mellom vedtatt arbeidsgrunnlag, endelig godkjent innhold og forslag.
 - Skill mellom offisielt bokinnhold, lærerprodusert materiale og ikke-godkjent AI-utkast.
 - Kontroller matematikk uavhengig; ikke stol på forfatterens egen fasit.
 - Ikke påstå at bygg, tester, visuell kontroll eller publisering er utført uten faktisk resultat.
