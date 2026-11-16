@@ -20,25 +20,25 @@ Etter kapitlet skal du kunne:
 
 Prøv oppgavene. Hvis noe er vanskelig, bruk repetisjonen underveis i kapitlet.
 
-**Oppgave 3.0.1 – Forkunnskaper**
+!!! question "Oppgave 3.0.1 – Forkunnskaper"
 
-a) Hvor mange grader er vinkelsummen i en trekant?
+    a) Hvor mange grader er vinkelsummen i en trekant?
 
-b) Regn ut $6^2$ og $\sqrt{49}$.
+    b) Regn ut $6^2$ og $\\sqrt{49}$.
 
-c) En tegning er 4 cm lang, mens den virkelige lengden er 8 m. Hvor mange meter svarer 1 cm på tegningen til?
+    c) En tegning er 4 cm lang, mens den virkelige lengden er 8 m. Hvor mange meter svarer 1 cm på tegningen til?
 
-d) Skriv et uttrykk for «tre ganger et tall pluss 2».
+    d) Skriv et uttrykk for «tre ganger et tall pluss 2».
 
 ??? note "Fasit – oppgave 3.0.1"
 
-    a) $180^\circ$.
+    a) $\\underline{\\underline{180^\\circ}}$.
 
-    b) $6^2=36$ og $\sqrt{49}=7$.
+    b) $\\underline{\\underline{6^2=36}}$ og $\\underline{\\underline{\\sqrt{49}=7}}$.
 
-    c) $8:4=2$. Én centimeter på tegningen svarer til 2 meter i virkeligheten.
+    c) $8:4=2$. $\\underline{\\underline{2\\text{ m}}}$ per centimeter på tegningen.
 
-    d) Hvis tallet er $x$, blir uttrykket $3x+2$.
+    d) Hvis tallet er $x$, blir $\\underline{\\underline{3x+2}}$.
 
 ---
 
@@ -106,7 +106,7 @@ Tegn to likebeinte trekanter med ulik toppvinkel. Mål grunnvinklene i begge tre
 
 !!! question "Oppgave 3.1.1 – Klassifiser trekanter"
 
-    En likebeint trekant har toppvinkel $80^\\circ$.
+    En likebeint trekant har toppvinkel $80^\circ$.
 
     a) Hvor store er grunnvinklene?
 
@@ -114,17 +114,17 @@ Tegn to likebeinte trekanter med ulik toppvinkel. Mål grunnvinklene i begge tre
 
 ??? note "Fasit – oppgave 3.1.1"
 
-    a) Grunnvinklene er like store. Vinkelsummen er $180^\\circ$, så hver grunnvinkel er
+    a) Grunnvinklene er like store. Vinkelsummen er $180^\circ$, så hver grunnvinkel er
 
     $
-    \\frac{180^\\circ-80^\\circ}{2}=50^\\circ.
+    \frac{180^\circ-80^\circ}{2}=50^\circ.
     $
 
     $
-    \\underline{\\underline{50^\\circ}}
+    \underline{\underline{50^\circ}}
     $
 
-    b) Alle vinklene er mindre enn $90^\\circ$, så $\\underline{\\underline{\\text{trekanten er spissvinklet}}}$.
+    b) Alle vinklene er mindre enn $90^\circ$, så $\underline{\underline{\text{trekanten er spissvinklet}}}$.
 
 !!! question "Oppgave 3.1.2 – Vinkelsum"
 
@@ -156,7 +156,7 @@ Tegn to likebeinte trekanter med ulik toppvinkel. Mål grunnvinklene i begge tre
 
 ??? note "Fasit – oppgave 3.1.3"
 
-    Tegn vinkelhalveringslinjen fra toppvinkelen. De to trekantene som dannes, er kongruente etter side–vinkel–side: De har to like lange sider og samme vinkel mellom sidene. Tilsvarende vinkler i kongruente trekanter er like. Derfor er $\\underline{\\underline{\\text{grunnvinklene like store}}}$.
+    Tegn vinkelhalveringslinjen fra toppvinkelen. De to trekantene som dannes, er kongruente etter side–vinkel–side: De har to like lange sider og samme vinkel mellom sidene. Tilsvarende vinkler i kongruente trekanter er like. Derfor er $\underline{\underline{\text{grunnvinklene like store}}}$.
 
 ---
 
@@ -204,11 +204,11 @@ Det er ikke mulig å velge tre vilkårlige lengder og alltid få en trekant. Sid
 
 ??? note "Fasit – oppgave 3.2.1"
 
-    a) $\\underline{\\underline{\\text{Ja}}}$. Alle tre ulikhetene er oppfylt.
+    a) $\underline{\underline{\text{Ja}}}$. Alle tre ulikhetene er oppfylt.
 
-    b) $\\underline{\\underline{\\text{Nei}}}$. $3+6=9<10$.
+    b) $\underline{\underline{\text{Nei}}}$. $3+6=9<10$.
 
-    c) $\\underline{\\underline{\\text{Nei}}}$. $6+6=12$, men summen må være større enn 12.
+    c) $\underline{\underline{\text{Nei}}}$. $6+6=12$, men summen må være større enn 12.
 
 !!! question "Oppgave 3.2.2 – Finn mulige lengder"
 
@@ -626,7 +626,7 @@ Noen problemer kan løses med begge metodene. Da må du undersøke hvilke opplys
 
 ??? note "Fasit – oppgave 3.5.3"
 
-    a) $\\underline{\\underline{\\text{Formlikhet}}}$.
+    a) $\underline{\underline{\text{Formlikhet}}}$.
 
     b) Skyggen og høyden danner rettvinklede trekanter med samme vinkel fra solstrålene. Trekantene er derfor formlike.
 
@@ -815,9 +815,9 @@ I disse oppgavene må du selv vurdere hvilke begreper og metoder som passer. Noe
 
 ??? note "Fasit – oppgave 3.7.1"
 
-    a) $\\underline{\\underline{\\text{Spissvinklet}}}$.
+    a) $\underline{\underline{\text{Spissvinklet}}}$.
 
-    b) Tegn vinkelhalveringslinjen fra toppvinkelen. De to trekantene som dannes, har samme vinkel ved toppen, samme vinkel ved grunnlinjen og en felles side. De er kongruente etter vinkel–side–vinkel. Derfor er de to sidene fra toppen like lange, og $\\underline{\\underline{\\text{trekanten er likebeint}}}$.
+    b) Tegn vinkelhalveringslinjen fra toppvinkelen. De to trekantene som dannes, har samme vinkel ved toppen, samme vinkel ved grunnlinjen og en felles side. De er kongruente etter vinkel–side–vinkel. Derfor er de to sidene fra toppen like lange, og $\underline{\underline{\text{trekanten er likebeint}}}$.
 
 !!! question "Oppgave 3.7.2 – Pytagoras eller formlikhet?"
 
@@ -825,7 +825,7 @@ I disse oppgavene må du selv vurdere hvilke begreper og metoder som passer. Noe
 
 ??? note "Fasit – oppgave 3.7.2"
 
-    $\\underline{\\underline{\\text{Formlikhet passer best.}}}$ Høydene og skyggene danner to formlike rettvinklede trekanter dersom bakken er plan og solstrålene kan regnes som parallelle.
+    $\underline{\underline{\text{Formlikhet passer best.}}}$ Høydene og skyggene danner to formlike rettvinklede trekanter dersom bakken er plan og solstrålene kan regnes som parallelle.
 
 ## Vanskelig
 
@@ -885,7 +885,7 @@ I disse oppgavene må du selv vurdere hvilke begreper og metoder som passer. Noe
     - 5, 12 og 13: $5^2+12^2=25+144=169=13^2$.
     - 8, 15 og 17: $8^2+15^2=64+225=289=17^2$.
 
-    $\\underline{\\underline{\\text{Alle tre eksemplene er rettvinklede trekanter.}}}$ Andre riktige eksempler er også mulige.
+    $\underline{\underline{\text{Alle tre eksemplene er rettvinklede trekanter.}}}$ Andre riktige eksempler er også mulige.
 
 !!! question "Oppgave 3.7.6 – Utforsk en trekant"
 
@@ -907,7 +907,7 @@ I disse oppgavene må du selv vurdere hvilke begreper og metoder som passer. Noe
 
     Alle trekantene er mulige fordi alle vinklene er positive og summen er $180^\circ$.
 
-    c) Sidene endres når vinklene endres, selv om grunnlinjen er fast. En nøyaktig sammenligning kan gjøres med konstruksjon eller ved å måle tegningene. Målingene bør brukes som grunnlag for observasjoner, ikke som eneste bevis for en generell påstand. $\\underline{\\underline{\\text{Vinklene bestemmer formen og dermed sidelengdene.}}}$
+    c) Sidene endres når vinklene endres, selv om grunnlinjen er fast. En nøyaktig sammenligning kan gjøres med konstruksjon eller ved å måle tegningene. Målingene bør brukes som grunnlag for observasjoner, ikke som eneste bevis for en generell påstand. $\underline{\underline{\text{Vinklene bestemmer formen og dermed sidelengdene.}}}$
 
 ---
 
