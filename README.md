@@ -6,7 +6,7 @@ Dette repoet eier innholdet for 9. trinn. Det er selvstendig fra bøkene for 8. 
 
 ## Status
 
-**Etablering – ingen kapitler er produsert eller godkjent ennå.**
+**Etablering – ingen kapitler er produsert eller godkjent ennå.** Den tekniske prototypen bruker Zensical, i tråd med `matte` og `tmatte`.
 
 Før vi lager bokstruktur og innhold, skal vi:
 1. Kartlegge gjeldende læreplan MAT01-06 og progresjonen fra 8. via 9. til 10. trinn.
@@ -35,6 +35,22 @@ Før vi lager bokstruktur og innhold, skal vi:
 - [Første skill: læreplanlegging](ai/skills/map-curriculum/SKILL.md)
 - [Arkitekturbeslutning 0001](docs/decisions/0001-repository-scope.md)
 - [Bidragsveiledning](CONTRIBUTING.md)
+
+## Lokal forhåndsvisning
+
+```powershell
+py -m venv .venv
+.\\.venv\\Scripts\\Activate.ps1
+python -m pip install --upgrade pip
+python -m pip install -r requirements.txt
+zensical serve
+```
+
+Åpne `http://localhost:8000`. Bygg statisk nettsted med `zensical build`.
+
+## Teknisk beslutning
+
+- [ADR 0002 – Zensical som publiseringsrammeverk](docs/decisions/0002-zensical-publishing.md)
 
 ## Felles plattform
 
