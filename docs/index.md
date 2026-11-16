@@ -4,11 +4,8 @@ Velkommen til en digital lærebok i matematikk for 9. trinn.
 
 Her skal du finne forklaringer, gjennomarbeidede eksempler og oppgaver som hjelper deg å forstå matematikken og bruke den i ulike situasjoner.
 
-<blockquote>
-**Under utvikling**
-
-Boka er i etableringsfasen. Innhold publiseres først når det er faglig, pedagogisk og teknisk kvalitetssikret.
-</blockquote>
+!!! note "Under utvikling"
+    Boka er i etableringsfasen. Innhold publiseres først når det er faglig, pedagogisk og teknisk kvalitetssikret.
 
 ## Slik skal boka fungere
 
