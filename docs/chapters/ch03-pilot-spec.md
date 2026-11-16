@@ -39,52 +39,48 @@ Før teorien skal eleven møte en kort «Dette trenger du»-del med noen få opp
 
 Diagnostikken skal ikke blokkere eleven. Hvert tema får en kort lenke til repetisjon og et par oppgaver på grunnnivå.
 
-## 4. Foreslått underkapittelstruktur
+## 4. Underkapittelstruktur i revidert utkast
 
 ### 3.1 Hva vet vi om trekanter?
 - Trekanttyper etter sider og vinkler.
-- Summen av vinklene i en trekant som nødvendig forkunnskap/repetisjon, dersom dette er kjent fra tidligere opplæring.
-- Likebeinte og likesidede trekanter.
-- Presist språk: side, vinkel, grunnlinje, høyde og rett vinkel.
-- Utforskingsoppgave: Hva kan vi si om sidene når vinklene eller symmetrien er kjent?
+- Vinkelsum.
+- Likebeinte trekanter og kongruensargument for like grunnvinkler.
+- Utforsking: måle og sammenligne likebeinte trekanter.
 
 ### 3.2 Sammenhenger mellom sidelengdene
-- Undersøke trekant med måling, tegning og konkrete eksempler.
-- Sammenligne likebeinte og likesidede trekanter.
-- Dele trekanter i rettvinklede trekanter og undersøke hva som skjer.
-- Utforske trekantulikheten og sammenhenger mellom sidelengder ved hjelp av tegning og konkrete eksempler.
-- Elevene formulerer en påstand, tester den på flere eksempler og begrunner hva de mener kan generaliseres.
-- Eventuelle mer avanserte sammenhenger merkes som utforsking/fordypning, ikke som forutsetning for alle.
+- Trekantulikheten.
+- Undersøke mulige og umulige kombinasjoner av sidelengder.
+- Formulere og begrunne hvilke lengder som kan danne en trekant.
 
 ### 3.3 Pytagoras' læresetning
-- Oppdage sammenhengen mellom kvadratene på sidene i en rettvinklet trekant.
-- Etter introduksjonen av Pytagoras: bruke læresetningen til å begrunne sideforholdet i 30°–60°–90°-trekanter.
-- Introdusere hypotenus og kateter tydelig.
-- Begrunne formelen visuelt før rutinemessig bruk.
-- Finne ukjent hypotenus eller katet.
-- Kontrollere om en trekant er rettvinklet ved å undersøke sidelengdene.
-- Praktiske situasjoner: avstander, diagonaler og konstruksjoner.
-- Vanlige feil: bruke læresetningen på en trekant som ikke er rettvinklet; velge feil side som hypotenus; glemme kvadratroten; blande sammen formelen og areal.
+- Hypotenus og kateter.
+- Visuell introduksjon til sammenhengen mellom kvadratene på sidene.
+- Finne hypotenus og ukjent katet.
+- Omvendt Pytagoras for å kontrollere om en trekant er rettvinklet.
+- Praktiske situasjoner og vanlige feil.
 
-### 3.4 Formlikhet i praktiske situasjoner
-- Koble tilbake til kapittel 2: tilsvarende vinkler og konstant forhold mellom tilsvarende sider.
-- Målestokk, kart, tegninger og modeller.
-- Indirekte måling av høyder eller avstander.
-- Sammenligne med Pytagoras: Hvilke opplysninger har vi, og hvilken metode passer?
-- Oppgaver der eleven må velge metode, ikke bare følge et signalord.
+### 3.4 Spesielle trekantforhold: 30°–60°–90°
+- Dele en likesidet trekant med vinkelhalveringslinjen.
+- Begrunne kongruens, halvering av grunnlinjen og rett vinkel.
+- Bruke Pytagoras til å utlede sideforholdet (1:\sqrt{3}:2).
+- Oppgaver som krever at eleven begrunner og bruker forholdet.
 
-### 3.5 Hva hvis vi endrer forutsetningene?
-- Endre én lengde, vinkel eller høyde om gangen.
-- Undersøke hva som skjer med andre sider og med løsningene.
-- Gå fra konkret tegning/måling til tabell og enkelt algebraisk uttrykk.
-- Skille mellom å observere at noe endres og å argumentere for hvorfor.
-- Oppgaver med åpne svar der flere strategier kan være gyldige.
+### 3.5 Formlikhet i praktiske situasjoner
+- Tilsvarende vinkler og konstant forhold mellom tilsvarende sider.
+- Målestokk, modeller og indirekte måling.
+- Praktisk høydeberegning ved hjelp av skygger.
+- Velge mellom formlikhet og Pytagoras og begrunne metodevalget.
 
-### 3.6 Oppsummering og blandede problemer
-- Begrepskart og kort oppsummering.
-- Blandede problemer som kombinerer formlikhet, Pytagoras og trekantrelasjoner.
-- Minst én oppgave der eleven må forklare hvorfor en foreslått løsning er feil.
-- Refleksjon: Hvilken metode valgte jeg, hvorfor, og hvordan kontrollerte jeg svaret?
+### 3.6 Hva hvis vi endrer forutsetningene?
+- Praktisk inngang med stige mot vegg.
+- Endre én størrelse om gangen.
+- Gå fra konkret situasjon til tabell/utregning og algebraisk begrunnelse.
+- Skille mellom observasjon og matematisk argumentasjon.
+
+### 3.7 Blandede oppgaver
+- Oppgaver der eleven må velge metode selv.
+- Middels, vanskelig og svært vanskelig nivå.
+- Både anvendelse, metodevalg, argumentasjon og åpen utforsking.
 
 ## 5. Oppgaveprogresjon
 
