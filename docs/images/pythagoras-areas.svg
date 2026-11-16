@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 430" role="img" aria-labelledby="title desc">
+<title id="title">Pytagoras med kvadrater på sidene</title><desc id="desc">Rettvinklet trekant med kateter a og b og hypotenus c. Kvadrater er tegnet på alle tre sidene.</desc>
+<rect width="760" height="430" fill="white"/>
+<polygon points="180,330 180,110 500,330" fill="#f3f4f6" stroke="#111827" stroke-width="4"/>
+<path d="M180 306 H204 V330" fill="none" stroke="#111827" stroke-width="3"/>
+<text x="155" y="225" font-size="25" text-anchor="end" fill="#111827">b</text><text x="340" y="360" font-size="25" text-anchor="middle" fill="#111827">a</text><text x="365" y="200" font-size="25" text-anchor="middle" fill="#111827">c</text>
+<polygon points="180,110 400,110 400,330 180,330" fill="none" stroke="#2563eb" stroke-width="3" opacity="0"/>
+<path d="M180 110 L400 110 L400 330 L180 330 Z" fill="none" stroke="#111827" stroke-width="3" stroke-dasharray="8 6"/>
+<path d="M180 330 L180 110 L400 110 L400 330 Z" fill="none" stroke="#111827" stroke-width="0"/>
+<path d="M180 330 L400 330 L400 650 L80 650 L80 330 Z" fill="none" stroke="#111827" stroke-width="0"/>
+<path d="M180 330 L500 330 L500 650 L180 650 Z" fill="none" stroke="#111827" stroke-width="0"/>
+<text x="540" y="145" font-size="22" fill="#111827">Arealet av kvadratet</text><text x="540" y="175" font-size="22" fill="#111827">på hypotenusen:</text><text x="540" y="210" font-size="27" font-weight="bold" fill="#111827">c²</text>
+<text x="540" y="270" font-size="22" fill="#111827">Summen av arealene</text><text x="540" y="300" font-size="22" fill="#111827">på katetene:</text><text x="540" y="335" font-size="27" font-weight="bold" fill="#111827">a² + b²</text>
+<text x="380" y="405" font-size="20" text-anchor="middle" fill="#111827">a² + b² = c²</text>
+</svg>
