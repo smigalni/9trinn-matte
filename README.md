@@ -29,6 +29,7 @@ Før vi lager bokstruktur og innhold, skal vi:
 - [Produktplan](BOOK_PLAN.md)
 - [Læreplan og progresjon](CURRICULUM_MAP.md)
 - [Sporbar kompetansemålkartlegging](docs/curriculum/9th-grade-coverage.md)
+- [Forslag til kapittelstruktur – ikke vedtatt](docs/architecture/chapter-map-proposal.md)
 - [AI-arbeidsflyt](AI_WORKFLOW.md)
 - [Bokstandard](docs/standards/9trinn-matte.md)
 - [Agentroller](docs/ai/agent-roles.md)
