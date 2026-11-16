@@ -10,6 +10,8 @@ Prosjektet bruker **Læreplan i matematikk 1.–10. trinn (MAT01-06)** fra Utdan
 - [Kompetansemål etter 10. trinn](https://www.udir.no/lk20/mat01-06/kompetansemaal-og-vurdering/kv1029?lang=nob)
 - [Gyldighet og innføring](https://www.udir.no/lk20/mat01-06/gyldighet-og-innfoering?lang=nob)
 
+Se [sporbar kompetansemålkartlegging](docs/curriculum/9th-grade-coverage.md) for nedbryting av hvert mål, forkunnskaper og mulige vurderingsbevis.
+
 ## Kompetansemål etter 9. trinn
 
 Boka skal dekke alle disse målene. Dette er en redaksjonell arbeidsoversikt, ikke en erstatning for Udirs offisielle ordlyd og forklaringstekster.
