@@ -1,11 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" role="img" aria-labelledby="title desc">
-<title id="title">Formlike trekanter</title><desc id="desc">To trekanter med samme vinkler og sider i samme forhold.</desc>
-<rect width="760" height="330" fill="white"/>
-<polygon points="90,250 90,110 300,250" fill="#f3f4f6" stroke="#111827" stroke-width="3"/>
-<polygon points="420,250 420,55 715,250" fill="#f3f4f6" stroke="#111827" stroke-width="3"/>
-<path d="M90 225 H115 V250 M420 225 H445 V250" fill="none" stroke="#111827" stroke-width="2"/>
-<text x="75" y="180" font-size="22" text-anchor="end" fill="#111827">3</text><text x="195" y="278" font-size="22" text-anchor="middle" fill="#111827">4</text><text x="210" y="165" font-size="22" fill="#111827">5</text>
-<text x="402" y="160" font-size="22" text-anchor="end" fill="#111827">6</text><text x="565" y="278" font-size="22" text-anchor="middle" fill="#111827">8</text><text x="580" y="135" font-size="22" fill="#111827">10</text>
-<text x="195" y="45" font-size="20" text-anchor="middle" fill="#111827">Liten trekant</text><text x="565" y="25" font-size="20" text-anchor="middle" fill="#111827">Stor trekant</text>
-<text x="380" y="315" font-size="19" text-anchor="middle" fill="#111827">Tilsvarende sider har forholdet 1 : 2</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 330" role="img" aria-labelledby="title desc">
+<title id="title">Formlike trekanter</title><desc id="desc">To rettvinklede trekanter med sidelengdene 3, 4, 5 og 6, 8, 10. Alle tilsvarende sider har samme forhold.</desc>
+<rect width="800" height="330" fill="white"/>
+<polygon points="90,245 90,125 250,245" fill="#f3f4f6" stroke="#111827" stroke-width="3"/>
+<polygon points="420,245 420,5 740,245" fill="#f3f4f6" stroke="#111827" stroke-width="3"/>
+<path d="M90 220 H115 V245 M420 220 H445 V245" fill="none" stroke="#111827" stroke-width="2"/>
+<text x="72" y="190" font-size="22" text-anchor="end" fill="#111827">3</text><text x="170" y="275" font-size="22" text-anchor="middle" fill="#111827">4</text><text x="185" y="165" font-size="22" fill="#111827">5</text>
+<text x="402" y="135" font-size="22" text-anchor="end" fill="#111827">6</text><text x="580" y="275" font-size="22" text-anchor="middle" fill="#111827">8</text><text x="590" y="120" font-size="22" fill="#111827">10</text>
+<text x="170" y="65" font-size="20" text-anchor="middle" fill="#111827">Liten trekant</text><text x="580" y="305" font-size="19" text-anchor="middle" fill="#111827">Tilsvarende sider har forholdet 1 : 2</text>
 </svg>
