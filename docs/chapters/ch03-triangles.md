@@ -134,9 +134,9 @@ $$
 a^2+b^2=c^2
 $$
 
-![En rettvinklet trekant med kvadrater på katetene og hypotenusen.](../images/pythagoras-areas.svg)
+![En rettvinklet trekant med kvadrater tegnet på hver av de tre sidene.](../images/pythagoras-areas.svg)
 
-*Figuren viser arealene på de tre kvadratene. Summen av arealene på katetene er lik arealet på kvadratet på hypotenusen.*
+*Kvadratene er tegnet på sidene i trekanten. Arealet av kvadratet på hypotenusen er like stort som summen av arealene av kvadratene på katetene.*
 
 ### Eksempel 4 – Finn hypotenusen
 
@@ -216,7 +216,7 @@ Sammenhengen stemmer. Trekanten er rettvinklet.
 
 ### Særlige trekantforhold: 30°–60°–90°-trekanter
 
-Vi kan nå begrunne sideforholdet ved hjelp av Pytagoras. Tenk på en likesidet trekant med sidelengde $2a$. Høyden deler trekanten i to rettvinklede trekanter. Den korteste kateten er $a$, og hypotenusen er $2a$.
+Vi kan nå begrunne sideforholdet ved hjelp av Pytagoras. Tenk på en likesidet trekant med sidelengde $2a$. Høyden fra toppen står vinkelrett på grunnlinjen og deler trekanten i to rettvinklede trekanter. De to rettvinklede trekantene har samme hypotenus og samme høyde, og er derfor kongruente. Høyden halverer dermed grunnlinjen, slik at den korteste kateten er $a$. Hypotenusen er $2a$. Vinklene i hver av de rettvinklede trekantene er $30^\circ$, $60^\circ$ og $90^\circ$.
 
 La den lengste kateten være $h$. Med Pytagoras får vi
 
