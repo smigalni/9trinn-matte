@@ -40,6 +40,8 @@ En trekant har tre sider og tre vinkler. Vi kan beskrive trekanter på flere må
 - **Likebeint trekant:** To sider er like lange. Vinklene ved grunnlinjen er like store.
 - **Uliksidet trekant:** Alle sidene har forskjellig lengde.
 
+Vi kan begrunne egenskapen til den likebeinte trekanten. Tegn en linje fra toppen til midtpunktet på grunnlinjen. De to trekantene som oppstår, har tre par like lange sider: de to opprinnelige like sidene, de to halvdelene av grunnlinjen og den felles linjen. Trekantene er derfor kongruente. Da må også vinklene ved grunnlinjen være like store.
+
 ### Trekanttyper etter vinkler
 
 - **Spissvinklet:** Alle vinklene er mindre enn $90^\circ$.
@@ -138,7 +140,7 @@ $$
 
 *Kvadratene er tegnet på sidene i trekanten. Arealet av kvadratet på hypotenusen er like stort som summen av arealene av kvadratene på katetene.*
 
-### Eksempel 4 – Finn hypotenusen
+### Eksempel 3 – Finn hypotenusen
 
 En rettvinklet trekant har kateter på 6 cm og 8 cm. Hvor lang er hypotenusen?
 
@@ -164,7 +166,7 @@ $$
 
 Hypotenusen er 10 cm.
 
-### Eksempel 5 – Finn en katet
+### Eksempel 4 – Finn en katet
 
 En rettvinklet trekant har hypotenus 13 cm og én katet 5 cm. Finn den andre kateten.
 
@@ -198,7 +200,7 @@ $$
 a^2+b^2=c^2
 $$
 
-**Eksempel 6**
+**Eksempel 5**
 
 En trekant har sidene 5 cm, 12 cm og 13 cm. Er trekanten rettvinklet?
 
@@ -240,7 +242,7 @@ $$
 1:\sqrt{3}:2
 $$
 
-**Eksempel 7 – Bruk sideforholdet**
+**Eksempel 6 – Bruk sideforholdet**
 
 En rettvinklet trekant har vinklene $30^\circ$, $60^\circ$ og $90^\circ$. Hypotenusen er 10 cm. Finn de to katetene.
 
@@ -276,7 +278,7 @@ To figurer er formlike når de har samme form, men ikke nødvendigvis samme stø
 
 Hvis en side i den ene figuren er dobbelt så lang som den tilsvarende siden i den andre, er målestokken mellom figurene 2:1.
 
-**Eksempel 8 – Målestokk**
+**Eksempel 7 – Målestokk**
 
 På et kart er avstanden mellom to steder 3 cm. Kartet har målestokk 1:50 000. Hvor langt er det i virkeligheten?
 
@@ -311,7 +313,7 @@ Noen problemer kan løses med begge metoder. Da må vi undersøke hvilken inform
 
 I matematikk kan vi undersøke hva som skjer når vi endrer én opplysning om gangen. Dette kalles å utforske en problemstilling.
 
-### Eksempel 9 – Hva skjer med hypotenusen?
+### Eksempel 8 – Hva skjer med hypotenusen?
 
 En rettvinklet trekant har kateter $a=3$ og $b=4$.
 
