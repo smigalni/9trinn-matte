@@ -220,25 +220,25 @@ Vi kan nå begrunne sideforholdet ved hjelp av Pytagoras. Tenk på en likesidet 
 
 La den lengste kateten være $h$. Med Pytagoras får vi
 
-$
+$$
 a^2+h^2=(2a)^2
-$
+$$
 
-$
+$$
 h^2=4a^2-a^2=3a^2
-$
+$$
 
 Siden en sidelengde er positiv, er
 
-$
+$$
 h=a\sqrt{3}
-$
+$$
 
 Sidene i den rettvinklede trekanten er altså $a$, $a\sqrt{3}$ og $2a$. Når vi deler alle sidene på $a$, får vi forholdet
 
-$
+$$
 1:\sqrt{3}:2
-$
+$$
 
 **Eksempel 7 – Bruk sideforholdet**
 
