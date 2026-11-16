@@ -106,43 +106,7 @@ $$
 
 Siden $7$ ikke er større enn $8$, kan sidene ikke danne en trekant.
 
-### Særlige trekantforhold
-
-Noen trekanter har så regelmessige vinkler at vi kan finne bestemte forhold mellom sidene.
-
-I en likesidet trekant er alle vinklene $60^\circ$. Hvis vi tegner høyden fra toppen, deler høyden trekanten i to like rettvinklede trekanter.
-
-Da får vi en rettvinklet trekant med vinklene $30^\circ$, $60^\circ$ og $90^\circ$.
-
-Hvis den opprinnelige likesidede trekanten har sidelengde $2a$, blir den korteste kateten $a$, og hypotenusen er $2a$. Lengden av den andre kateten begrunner vi med Pytagoras i neste del av kapitlet.
-
-Dermed er sideforholdet
-
-$$
-1:\sqrt{3}:2
-$$
-
-Når vi har begrunnet lengden av den lengste kateten, får vi sideforholdet $1:\sqrt{3}:2$. Dette gjelder for alle rettvinklede trekanter med vinklene $30^\circ$, $60^\circ$ og $90^\circ$.
-
-**Eksempel 3**
-
-En rettvinklet trekant har vinklene $30^\circ$, $60^\circ$ og $90^\circ$. Hypotenusen er 10 cm. Finn de to katetene.
-
-Forholdet er $1:\sqrt{3}:2$. Hypotenusen svarer til 2 deler. Én del er derfor
-
-$$
-10:2=5
-$$
-
-Katetene er
-
-$$
-5\text{ cm}\quad\text{og}\quad 5\sqrt{3}\text{ cm}
-$$
-
-Den lengste kateten er omtrent $8{,}66$ cm.
-
-**Viktig:** Ikke bruk dette sideforholdet på en vilkårlig rettvinklet trekant. Det gjelder bare når vinklene er $30^\circ$, $60^\circ$ og $90^\circ$.
+Vi skal også undersøke spesielle trekantforhold. Det gjør vi etter at vi har lært Pytagoras, slik at vi kan begrunne sammenhengene.
 
 ---
 
@@ -275,6 +239,45 @@ Sidene i den rettvinklede trekanten er altså $a$, $a\sqrt{3}$ og $2a$. Når vi 
 $
 1:\sqrt{3}:2
 $
+
+### Særlige trekantforhold: 30°–60°–90°-trekanter
+
+Noen trekanter har så regelmessige vinkler at vi kan finne bestemte forhold mellom sidene.
+
+I en likesidet trekant er alle vinklene $60^\circ$. Hvis vi tegner høyden fra toppen, deler høyden trekanten i to like rettvinklede trekanter.
+
+Da får vi en rettvinklet trekant med vinklene $30^\circ$, $60^\circ$ og $90^\circ$.
+
+Hvis den opprinnelige likesidede trekanten har sidelengde $2a$, blir den korteste kateten $a$, og hypotenusen er $2a$. Vi kan finne lengden av den andre kateten med Pytagoras.
+
+Dermed er sideforholdet
+
+$
+1:\sqrt{3}:2
+$
+
+Dermed får vi sideforholdet $1:\sqrt{3}:2$. Dette gjelder for alle rettvinklede trekanter med vinklene $30^\circ$, $60^\circ$ og $90^\circ$.
+
+**Eksempel 7**
+
+En rettvinklet trekant har vinklene $30^\circ$, $60^\circ$ og $90^\circ$. Hypotenusen er 10 cm. Finn de to katetene.
+
+Forholdet er $1:\sqrt{3}:2$. Hypotenusen svarer til 2 deler. Én del er derfor
+
+$
+10:2=5
+$
+
+Katetene er
+
+$
+5\text{ cm}\quad\text{og}\quad 5\sqrt{3}\text{ cm}
+$
+
+Den lengste kateten er omtrent $8{,}66$ cm.
+
+**Viktig:** Ikke bruk dette sideforholdet på en vilkårlig rettvinklet trekant. Det gjelder bare når vinklene er $30^\circ$, $60^\circ$ og $90^\circ$.
+
 
 ### Vanlige feil
 
