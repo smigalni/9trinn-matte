@@ -125,3 +125,29 @@ Kilde: https://www.udir.no/lk20/mat01-06/kompetansemaal-og-vurdering/kv1028?lang
 ## Avgrensning
 
 Denne reviewen endrer ikke selve elevkapitlet. Den er et arbeidsdokument for neste revisjon. Kapitlet skal fortsatt være merket som utkast inntil matematisk kontroll, lærerreview, elevutprøving og visuell/teknisk kontroll er gjennomført.
+
+
+## Oppfølging – revisjon av elevkapitlet (16. november 2026)
+
+Kapittelutkastet er nå omarbeidet etter de nyeste fellesstandardene i `math-platform`:
+
+- Hver faglige del følger mønsteret introduksjon → teori → regelboks ved behov → gjennomarbeidet eksempel → lokale oppgaver → fasit rett etter hver oppgave.
+- Regler, eksempler og oppgaver bruker henholdsvis `important`, `example` og `question`-komponentene. Fasit er sammenfoldet med `note`.
+- Eksempler og oppgaver har hierarkisk nummerering på formen kapittel.del.løpenummer.
+- Sluttsvar er formatert med dobbel understrek.
+- Vanskelighetsnivå er bare brukt i det blandede oppgavesettet.
+- Beviset for grunnvinklene i en likebeint trekant er korrigert: vinkelhalveringslinjen gir to kongruente trekanter etter side–vinkel–side.
+- En oppgave som tidligere brukte en egenskap før den var introdusert, er endret.
+- M9-05 har fått en konkret stigesituasjon før den algebraiske generaliseringen.
+
+### Ny kontroll mot Udir
+
+Den gjeldende læreplanen er MAT01-06, gyldig fra 1. august 2026. Udirs forklaring til målet om sammenhenger mellom sidelengdene i trekanter nevner blant annet likebeinte og likesidede trekanter, 30°–60°–90°-trekanter og oppdeling i rettvinklede trekanter. Forklaringen til praktisk bruk av formlikhet og Pytagoras trekker fram blant annet høyder og avstander som ikke kan måles direkte. Kapitlets innhold er relevant for disse eksemplene, men må fortsatt vurderes av lærer med hensyn til nivå og omfang.
+
+Kilde: https://www.udir.no/lk20/mat01-06/kompetansemaal-og-vurdering/kv1028?lang=nob
+
+### Status etter revisjonen
+
+**Gjennomført i kildekoden:** struktur, lokale oppgaver og fasiter, hierarkisk nummerering, visuelle komponenter, dobbel understrek og de nevnte matematiske/pedagogiske rettingene.
+
+**Gjenstår før godkjenning:** fullstendig uavhengig kontroll av alle matematiske svar, kontroll av alle MathJax-uttrykk i faktisk bygget side, visuell kontroll på mobil/PC/utskrift, lærerreview og elevutprøving. CI for den siste revisjonen må også bekreftes.
