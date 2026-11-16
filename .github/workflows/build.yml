@@ -29,3 +29,11 @@ jobs:
 
       - name: Build site
         run: zensical build
+
+      - name: Upload built site for review
+        uses: actions/upload-artifact@v4
+        with:
+          name: 9trinn-matte-preview
+          path: site/
+          if-no-files-found: error
+          retention-days: 7
