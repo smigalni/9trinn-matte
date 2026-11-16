@@ -174,7 +174,9 @@ $$
 a^2+b^2=c^2
 $$
 
-[FIGUR: Rettvinklet trekant med katetene a og b, hypotenusen c, og kvadrat på hver side. Figuren skal vise at arealene på katetene samlet er like stort som arealet på hypotenusen.]
+![En rettvinklet trekant med kvadrater på katetene og hypotenusen.](../images/pythagoras-areas.svg)
+
+*Figuren viser arealene på de tre kvadratene. Summen av arealene på katetene er lik arealet på kvadratet på hypotenusen.*
 
 ### Eksempel 4 – Finn hypotenusen
 
@@ -292,7 +294,9 @@ Avstanden er 1,5 km.
 
 Noen problemer kan løses med begge metoder. Da må vi undersøke hvilken informasjon vi har, og hvilken metode som gir den tydeligste løsningen.
 
-[FIGUR: To formlike trekanter med tilsvarende vinkler markert og sidelengder som viser samme målestokk.]
+![To formlike trekanter med tilsvarende vinkler og sidelengder markert.](../images/similar-triangles.svg)
+
+*De tilsvarende vinklene er like store, og forholdet mellom tilsvarende sider er det samme.*
 
 ---
 
@@ -365,7 +369,7 @@ Når du utforsker, skal du skille mellom det du observerer i eksemplene, og det 
 
 14. Lag tre ulike rettvinklede trekanter. Undersøk hvordan hypotenusen endres når begge katetene økes med samme faktor.
 15. Undersøk hvilke heltallige sidelengder som kan gi en rettvinklet trekant. Finn minst tre eksempler.
-16. Tegn en trekant og endre én vinkel mens du prøver å holde én side fast. Beskriv hva som skjer med de andre sidene. Hvilke forhold må du passe på for at trekanten fortsatt skal være mulig?
+16. Tegn en trekant der grunnlinjen er 8 cm og vinkelen ved høyre endepunkt er 50°. Varier vinkelen ved venstre endepunkt fra 30° til 40° og 60°. Tegn trekantene og undersøk hvordan den tredje vinkelen og sidene endres. Hvilke vinkler er mulige, og hvorfor?
 
 ---
 
@@ -393,7 +397,9 @@ Når du utforsker, skal du skille mellom det du observerer i eksemplene, og det 
 11. Trekanten er ikke rettvinklet: $5^2+6^2=61$, mens $7^2=49$.
 12. Ja. $6^2+8^2=36+64=100=10^2$.
 13. Eksempel: å finne høyden på et tre ved å sammenligne skygger. Det er nødvendig å forklare at trekantene er formlike.
-14.–16. Åpne oppgaver. Vurder om eleven endrer én forutsetning om gangen, registrerer resultatene og begrunner mønsteret. Det finnes flere mulige svar.
+14. Når begge katetene ganges med en faktor $k$, blir hypotenusen også ganget med $k$: $c'=\sqrt{(ka)^2+(kb)^2}=k\sqrt{a^2+b^2}=kc$ for $k>0$.
+15. Eksempler er $3$–$4$–$5$, $5$–$12$–$13$ og $8$–$15$–$17$. I hvert tilfelle er summen av kvadratene av de to korteste sidene lik kvadratet av den lengste.
+16. Den tredje vinkelen blir henholdsvis $100^\circ$, $90^\circ$ og $70^\circ$. Alle tre trekantene er mulige fordi vinkelsummen er $180^\circ$ og alle vinklene er positive. Sidene endrer lengde selv om grunnlinjen er fast. Flere tegninger eller en konstruksjon kan brukes til å undersøke mønsteret.
 
 ---
 
