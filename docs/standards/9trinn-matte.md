@@ -59,3 +59,16 @@ Dette dokumentet supplerer de felles standardene i [math-platform](https://githu
 - AI-genererte oppgaver og løsninger er utkast inntil lærer har gjennomgått og godkjent dem.
 - Lærer skal kunne redigere, fjerne og regenerere innhold før deling eller utskrift.
 - Godkjent redaksjonelt bokinnhold skal holdes adskilt fra lærerprodusert og ikke-godkjent AI-innhold.
+
+
+## Struktur og nummerering – tillegg for elevkapitler
+
+- Følg alltid de nyeste fellesstandardene i `math-platform/docs/standards/`, særlig `design.md`, `pedagogy.md` og `quality.md`. Disse har forrang ved felles visuell og pedagogisk utforming.
+- Bruk samme sidemønster som de godkjente R1-sidene: kort introduksjon, trinnvis teori, blå regelboks når en regel/formel skal framheves, turkist gjennomarbeidet eksempel, lokale oppgaver og fasit rett etter hver oppgave.
+- Ikke samle alle lokale fasiter i slutten av kapitlet. Hver oppgave skal etterfølges av en sammenfoldet fasit/løsningsforslag (`??? note`) med metode, mellomregning og dobbel understrek under sluttsvaret.
+- Bruk Zensical-admonitions konsekvent: `!!! important` for regler, `!!! example` for gjennomarbeidede eksempler, `!!! question` for elevoppgaver og `??? note` for fasit. Ikke lag egne konkurrerende bokstyper i bokspesifikk CSS.
+- Bruk hierarkisk nummerering: `Eksempel 3.2.1` og `Oppgave 3.2.1` betyr kapittel.del.eksempel/oppgave. Nummereringen starter på nytt i hver del. Forkunnskapsoppgaver kan nummereres `3.0.x`.
+- Deloppgaver skal stå på hver sin linje med `a)`, `b)`, `c)` osv. uten ekstra punktmarkør.
+- I blandede oppgavesett kan nivåoverskriftene være Middels, Vanskelig og Svært vanskelig. Vanskelighetsfargene skal ikke brukes på vanlige oppgaver i en teoriseksjon.
+- Ikke bruk svarte rammer rundt formler i blå regelbokser. Sluttsvar skal ha dobbel understrek.
+- Kapittelsidene skal være selvstendige og fungere på mobil, PC og i utskrift. Ikke la formateringsmarkeringer lekke inn i navigasjon eller innholdsfortegnelse.
