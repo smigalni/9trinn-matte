@@ -116,13 +116,13 @@ Tegn to likebeinte trekanter med ulik toppvinkel. Mål grunnvinklene i begge tre
 
     a) Grunnvinklene er like store. Vinkelsummen er $180^\circ$, så hver grunnvinkel er
 
-    $
+    $$
     \frac{180^\circ-80^\circ}{2}=50^\circ.
-    $
+    $$
 
-    $
+    $$
     \underline{\underline{50^\circ}}
-    $
+    $$
 
     b) Alle vinklene er mindre enn $90^\circ$, så $\underline{\underline{\text{trekanten er spissvinklet}}}$.
 
