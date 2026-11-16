@@ -261,7 +261,6 @@ Den lengste kateten er omtrent $8{,}66$ cm.
 **Viktig:** Ikke bruk dette sideforholdet på en vilkårlig rettvinklet trekant. Det gjelder bare når vinklene er $30^\circ$, $60^\circ$ og $90^\circ$.
 
 
-
 ### Vanlige feil
 
 - Å bruke Pytagoras i en trekant som ikke er rettvinklet.
@@ -312,7 +311,7 @@ Noen problemer kan løses med begge metoder. Da må vi undersøke hvilken inform
 
 I matematikk kan vi undersøke hva som skjer når vi endrer én opplysning om gangen. Dette kalles å utforske en problemstilling.
 
-### Eksempel 8 – Hva skjer med hypotenusen?
+### Eksempel 9 – Hva skjer med hypotenusen?
 
 En rettvinklet trekant har kateter $a=3$ og $b=4$.
 
@@ -409,7 +408,13 @@ Når du utforsker, skal du skille mellom det du observerer i eksemplene, og det 
 14. Når begge katetene ganges med en faktor $k$, blir hypotenusen også ganget med $k$: $c'=\sqrt{(ka)^2+(kb)^2}=k\sqrt{a^2+b^2}=kc$ for $k>0$.
 15. Eksempler er $3$–$4$–$5$, $5$–$12$–$13$ og $8$–$15$–$17$. I hvert tilfelle er summen av kvadratene av de to korteste sidene lik kvadratet av den lengste.
 16. Den tredje vinkelen blir henholdsvis $100^\circ$, $90^\circ$ og $70^\circ$. Alle tre trekantene er mulige fordi vinkelsummen er $180^\circ$ og alle vinklene er positive. Sidene endrer lengde selv om grunnlinjen er fast. Flere tegninger eller en konstruksjon kan brukes til å undersøke mønsteret.
-I utforskingsoppgave 3.5 nr. 7 kan eleven sammenligne $c'^2=(a+d)^2+b^2$ med $c^2=a^2+b^2$. Differansen er $2ad+d^2$, som er positiv når $a>0$ og $d>0$. Derfor er $c'>c$.
+**Utforsk selv, oppgave 7:** Vi sammenligner kvadratene av hypotenusene:
+
+$
+c'^2-c^2=((a+d)^2+b^2)-(a^2+b^2)=2ad+d^2
+$
+
+Når $a>0$ og $d>0$, er differansen positiv. Dermed er $c'^2>c^2$, og fordi begge hypotenusene er positive, er også $c'>c$.
 
 ---
 
@@ -418,6 +423,6 @@ I utforskingsoppgave 3.5 nr. 7 kan eleven sammenligne $c'^2=(a+d)^2+b^2$ med $c^
 Dette er et førsteutkast. Det er ikke godkjent for publisering. Før godkjenning må vi blant annet:
 - kontrollere at alle delene dekker kompetansemålene M9-03, M9-04 og M9-05 presist
 - kontrollere at omfang og nivå på 30°–60°–90°-forholdet er riktig for målgruppen
-- kvalitetssikre alle figurer, som foreløpig bare er beskrevet med figurinstruksjoner
-- kontrollere oppgave 9 og alle åpne utforskingsoppgaver med lærer
+- kontrollere at SVG-figurene er matematisk tydelige, lesbare på mobil og forståelige i svart-hvitt-utskrift
+- kontrollere oppgave 9 og alle åpne utforskingsoppgaver med en lærer
 - gjennomføre uavhengig matematisk kontroll og elev-/lærerutprøving
