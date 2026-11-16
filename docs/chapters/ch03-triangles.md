@@ -24,7 +24,7 @@ Prøv oppgavene. Hvis noe er vanskelig, bruk repetisjonen underveis i kapitlet.
 
     a) Hvor mange grader er vinkelsummen i en trekant?
 
-    b) Regn ut $6^2$ og $\\sqrt{49}$.
+    b) Regn ut $6^2$ og $\sqrt{49}$.
 
     c) En tegning er 4 cm lang, mens den virkelige lengden er 8 m. Hvor mange meter svarer 1 cm på tegningen til?
 
@@ -32,13 +32,13 @@ Prøv oppgavene. Hvis noe er vanskelig, bruk repetisjonen underveis i kapitlet.
 
 ??? note "Fasit – oppgave 3.0.1"
 
-    a) $\\underline{\\underline{180^\\circ}}$.
+    a) $\underline{\underline{180^\circ}}$.
 
-    b) $\\underline{\\underline{6^2=36}}$ og $\\underline{\\underline{\\sqrt{49}=7}}$.
+    b) $\underline{\underline{6^2=36}}$ og $\underline{\underline{\sqrt{49}=7}}$.
 
-    c) $8:4=2$. $\\underline{\\underline{2\\text{ m}}}$ per centimeter på tegningen.
+    c) $8:4=2$. $\underline{\underline{2\text{ m}}}$ per centimeter på tegningen.
 
-    d) Hvis tallet er $x$, blir $\\underline{\\underline{3x+2}}$.
+    d) Hvis tallet er $x$, blir $\underline{\underline{3x+2}}$.
 
 ---
 
