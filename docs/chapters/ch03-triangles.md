@@ -106,17 +106,15 @@ Tegn to likebeinte trekanter med ulik toppvinkel. Mål grunnvinklene i begge tre
 
 !!! question "Oppgave 3.1.1 – Klassifiser trekanter"
 
-    En trekant har sidene 5 cm, 5 cm og 8 cm.
+    En likebeint trekant har toppvinkel $80^\\circ$.
 
-    a) Hva slags trekant er den klassifisert etter sidelengdene?
+    a) Hvor store er grunnvinklene?
 
-    b) Hvis toppvinkelen er $80^\\circ$, hvor store er grunnvinklene?
+    b) Hva slags trekant er dette klassifisert etter vinklene?
 
 ??? note "Fasit – oppgave 3.1.1"
 
-    a) Den er likebeint fordi to av sidene er like lange.
-
-    b) Grunnvinklene er like store. Vinkelsummen er $180^\\circ$, så hver grunnvinkel er
+    a) Grunnvinklene er like store. Vinkelsummen er $180^\\circ$, så hver grunnvinkel er
 
     $
     \\frac{180^\\circ-80^\\circ}{2}=50^\\circ.
@@ -125,6 +123,8 @@ Tegn to likebeinte trekanter med ulik toppvinkel. Mål grunnvinklene i begge tre
     $
     \\underline{\\underline{50^\\circ}}
     $
+
+    b) Alle vinklene er mindre enn $90^\\circ$, så trekanten er spissvinklet.
 
 !!! question "Oppgave 3.1.2 – Vinkelsum"
 
