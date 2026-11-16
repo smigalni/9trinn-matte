@@ -1,37 +1,78 @@
 # Forslag til kapittelstruktur – arbeidsutkast
 
-**Status: Forslag – ikke vedtatt.** Dette dokumentet er et diskusjonsgrunnlag. Ingen kapittelrekkefølge er låst.
+**Status: Seks hovedkapitler valgt som arbeidsgrunnlag. Ikke endelig faglig godkjent.**
 
-## Hva strukturen må løse
+Strukturen er basert på MAT01-06 og den sporbare kompetansemålkartleggingen. Den skal dekke alle 11 kompetansemål etter 9. trinn, samtidig som den gir en sammenhengende elevbok. Endelig rekkefølge og omfang må prøves mot undervisningstid og lærererfaring.
 
-- Dekke alle 11 kompetansemål etter 9. trinn i MAT01-06.
-- Gi geometri tilstrekkelig sammenheng og dybde.
-- Behandle statistikk som mer enn bare beregning: elevene skal også tolke og vurdere framstillinger kritisk.
-- Koble sannsynlighet og programmering naturlig sammen.
-- Sørge for at måling, brøk, forhold, algebra og regneferdigheter repeteres der eleven trenger dem.
-- Unngå å lage et eget kapittel for hvert kompetansemål hvis det gir en fragmentert bok.
+## Prinsipper for strukturen
 
-## Alternativ A – seks sammenhengende kapitler
+- Ett hovedkapittel kan dekke flere nært beslektede kompetansemål.
+- Alle 11 mål skal kunne spores til konkrete læringsmål, fagstoff, oppgaver og vurderingsbevis.
+- Repetisjon av forkunnskaper fra 8. trinn legges inn der eleven trenger den, ikke som et stort løsrevet repetisjonskapittel.
+- Geometri skal utvikles fra figurers egenskaper til formlikhet, Pytagoras, trekantrelasjoner, algebraisk utforsking og 3D-figurer.
+- Statistikk skal omfatte beregning, tolkning og kritisk vurdering – ikke bare diagrammer og gjennomsnitt.
+- Sannsynlighet skal gå fra teoretisk resonnering til simulering med programmering.
+- Sammensatte måleenheter skal ikke bli et kunstig langt kapittel bare for å gi ett kompetansemål en egen overskrift.
 
-| Kapittel | Arbeidstittel | Kompetansemål |
-|---|---|---|
-| 1 | Måling og sammensatte måleenheter | M9-01 |
-| 2 | Geometriske figurer, kongruens og formlikhet | M9-02 |
-| 3 | Trekanter, Pytagoras og geometriske undersøkelser | M9-03, M9-04, M9-05 |
-| 4 | Overflateareal og volum | M9-06 |
-| 5 | Statistikk og data i samfunnet | M9-07, M9-08, M9-09 |
-| 6 | Sannsynlighet og simulering | M9-10, M9-11 |
+## Alternativ A – seks hovedkapitler (valgt arbeidsgrunnlag)
 
-**Fordeler**
-- Relativt få og tydelige hovedkapitler.
-- Samler beslektede geometrimål slik at eleven kan se sammenhengene.
-- Statistikkens beregning, tolkning og kritiske vurdering holdes samlet.
-- Sannsynlighet og programmering får en naturlig felles avslutning.
+| Kapittel | Arbeidstittel | Kompetansemål | Redaksjonell rolle |
+|---|---|---|---|
+| 1 | Måling og sammensatte måleenheter | M9-01 | Kort, praktisk inngang til enheter, forhold og størrelser per enhet. Målet skal også brukes aktivt i senere kapitler. |
+| 2 | Geometriske figurer, kongruens og formlikhet | M9-02 | Bygge presist geometrisk språk og forståelse av 2D-figurer, egenskaper, kongruens og formlikhet. |
+| 3 | Trekanter, Pytagoras og geometriske undersøkelser | M9-03, M9-04, M9-05 | Samle praktisk bruk, trekantrelasjoner, utforsking og algebraiske «hva hvis?»-resonnementer. |
+| 4 | Overflateareal og volum | M9-06 | Arbeide med 3D-figurer, oppbygning og begrunnelse av formler, enheter og praktiske problemer. |
+| 5 | Statistikk og data i samfunnet | M9-07, M9-08, M9-09 | Koble datasett og beregninger til tolkning, kildekritikk og hvordan framstillinger kan påvirke synspunkter. |
+| 6 | Sannsynlighet og simulering | M9-10, M9-11 | Bygge fra sannsynlighetsresonnement til programmerte simuleringer og tolkning av resultater. |
 
-**Risiko**
-- Kapittel 3 kan bli stort og må deles i tydelige underkapitler.
-- Kapittel 1 kan bli for kort alene dersom sammensatte måleenheter ikke gir nok naturlig innhold.
-- Overflateareal og volum kan eventuelt passe bedre sammen med måling.
+### Mulig understruktur
+
+Dette er forslag til innhold, ikke ferdige kapitteltitler.
+
+**Kapittel 1 – Måling og sammensatte måleenheter**
+- Enheter og omregning som nødvendig forkunnskap.
+- Størrelser per enhet, for eksempel fart og pris per mengde.
+- Sammensatte måleenheter i praktiske problemer.
+- Estimering, enhetskontroll og rimelighet.
+
+**Kapittel 2 – Geometriske figurer, kongruens og formlikhet**
+- Egenskaper ved mangekanter og andre 2D-figurer.
+- Vinkler, parallelle sider og symmetri.
+- Sirkel: radius, diameter og omkrets.
+- Kongruens: samme form og størrelse.
+- Formlikhet: samme form, forhold mellom tilsvarende sider og like tilsvarende vinkler.
+- Målestokk, tegninger og modeller som bro til kapittel 3.
+
+**Kapittel 3 – Trekanter, Pytagoras og geometriske undersøkelser**
+- Trekanttyper og sammenhenger mellom sidelengder.
+- Rettvinklede trekanter og Pytagoras.
+- Formlikhet i praktiske situasjoner og indirekte måling.
+- Likebeinte, likesidede og 30°–60°–90°-trekanter som utforskingsområder.
+- «Hva hvis?»: endre én forutsetning om gangen.
+- Algebraiske uttrykk og begrunnelser for hvordan løsninger endres.
+
+**Kapittel 4 – Overflateareal og volum**
+- Fra 2D-areal til overflateareal.
+- Prismer og sylindre som mulige hovedfigurer; andre figurer velges etter faglig vurdering.
+- Utlede og begrunne formler ved å dele opp eller bygge sammen figurer.
+- Volum, enheter og praktiske anvendelser.
+- Sammensatte måleenheter og enhetskontroll fra kapittel 1 brukes på nytt der det passer.
+
+**Kapittel 5 – Statistikk og data i samfunnet**
+- Egne og reelle datasett.
+- Gjennomsnitt, median, typetall og variasjonsbredde.
+- Beskrive og sammenligne datasett.
+- Tolke framstillinger fra media og lokalsamfunnet.
+- Hvordan akser, utvalg, skala og presentasjonsform kan fremme ulike synspunkter.
+- Lage egne framstillinger og begrunne valg.
+
+**Kapittel 6 – Sannsynlighet og simulering**
+- Tilfeldighet, utfallsrom og sannsynlighet.
+- Sannsynlighet i statistikk og spill.
+- Systematiske forsøk og registrering av utfall.
+- Algoritme for et tilfeldig forsøk.
+- Programmering av simulering, mange gjentakelser og sammenligning mellom beregnet og simulert sannsynlighet.
+- Forklare hva simuleringen viser og hva den ikke viser.
 
 ## Alternativ B – åtte mer avgrensede moduler
 
@@ -44,51 +85,48 @@
 7. Statistikk og kritisk dataforståelse.
 8. Sannsynlighet og programmering.
 
-**Fordeler**
-- Tydeligere avgrensning for lærere som vil undervise i mindre sekvenser.
-- Enklere å plassere korte prøver og lokale oppgavesett.
-- Gir større fleksibilitet i rekkefølge.
+Alternativ B beholdes som en mulig intern modulstruktur. Det er ikke lenger hovedalternativet for navigasjonen i elevboka.
 
-**Risiko**
-- Flere moduler kan gjøre boka fragmentert.
-- Forholdet mellom formlikhet, Pytagoras og trekantrelasjoner kan bli mindre synlig.
-- Flere navigasjonspunkter og mer redaksjonelt vedlikehold.
+## Viktige faglige føringer
 
-## Foreløpig anbefaling
+### Ikke overdriv repetisjonen
 
-Alternativ A er det beste utgangspunktet for en sammenhengende digital lærebok. Vi kan likevel bruke underkapittelstrukturen fra alternativ B inne i de store kapitlene.
+MAT01-06 etter 8. trinn omfatter blant annet brøkregning, potenser og kvadratrøtter, algebraiske uttrykk, likninger, ulikheter, funksjoner og algoritmer. Vi skal ikke skrive et nytt 8.-trinnskapittel inne i 9.-trinnsboka. I stedet lager vi korte forkunnskapssjekker, forklaringsbokser og målrettede repetisjonsoppgaver akkurat der ferdigheten trengs.
 
-Et særlig viktig valg er hvor M9-01 og M9-06 skal ligge. Sammensatte måleenheter kan være et kort eget kapittel eller integreres i måling, geometri og praktiske oppgaver. Overflateareal og volum kan være eget kapittel eller en del av en større målingsdel. Dette bør avgjøres når vi har vurdert ønsket omfang og undervisningsflyt.
+### Geometri må inneholde argumentasjon
 
-## Gjennomgående ferdigheter – ikke nødvendigvis egne kapitler
+Målene krever mer enn å sette inn tall i formler. Elevene må utforske, beskrive og argumentere. Oppgavene må derfor inneholde tegning, måling, sammenligning, «hva hvis?»-spørsmål og forklaringer av hvorfor.
 
-Følgende bør bygges inn i flere kapitler:
-- Brøk, forhold, prosent og enhetsomregning.
-- Kvadrering og kvadratrøtter.
-- Variabler, uttrykk og enkle likninger.
-- Forklaring og begrunnelse av framgangsmåter.
-- Overgang mellom tekst, tegning, tabell, graf, symbol og digitale representasjoner.
-- Estimering og vurdering av rimelighet.
+### Statistikk må være kritisk og autentisk
 
-Dette er særlig viktig fordi 9.-trinnsmålene bruker forkunnskaper fra 8. trinn, selv om de ikke gjentar alle disse som egne mål.
+Elevene skal arbeide med egne og reelle datasett. Vi må bruke datasett med dokumentert kilde og lovlig gjenbruk, og oppgaver må spørre hva framstillingen får leseren til å tro – ikke bare be eleven lese av en verdi.
 
-## Pilotkapittel – forslag
+### Programmering skal være på riktig nivå
 
-Et godt pilotområde er **formlikhet, Pytagoras og trekantrelasjoner**. Det tester flere krevende sider av bokas kvalitet samtidig:
-- presis matematisk forklaring
+Kompetansemålet etter 9. trinn krever simulering ved hjelp av programmering. Det eksplisitte målet om å lese og forklare tekstbasert Python-kode står etter 10. trinn. 9.-trinnsboka skal derfor lære elevene å forstå og lage en enkel simulering, uten å late som om Python-målet etter 10. trinn allerede er et krav etter 9. trinn.
+
+## Pilotkapittel – anbefaling
+
+**Kapittel 3: Trekanter, Pytagoras og geometriske undersøkelser** anbefales som pilot.
+
+Det tester flere sentrale kvalitetskrav samtidig:
+- presis matematisk forklaring og begrepsbruk
 - figurer og visuelle representasjoner
 - flere mulige løsningsmetoder
-- praktiske anvendelser
-- begrunnelser, ikke bare svar
-- oppgaver med gradvis økende vanskelighetsgrad
-- god utskrift der eleven kan tegne og regne på papir
+- praktiske anvendelser og indirekte måling
+- utforsking og argumentasjon, ikke bare svar
+- gradvis oppgaveprogresjon og differensiering
+- utskriftsvennlig oppsett med plass til elevens egne tegninger og utregninger
 
-Piloten bør ikke starte før vi har avklart forventet forkunnskap og valgt om vi skal bruke en bestemt digital geometriplattform eller holde oss til statiske figurer i første versjon.
+Før produksjon må vi lage en konkret forkunnskapsprofil og velge om første pilot bruker statiske figurer eller et digitalt geometriverktøy. Vi kan starte med statiske figurer og oppgaver som kan løses på papir; dynamisk geometri kan legges til etter at grunnformatet er testet.
 
-## Beslutninger som må tas før full produksjon
+## Gjenstående avklaringer før endelig kapittelplan
 
-1. Velge eller justere alternativ A/B.
-2. Bestemme om måling og sammensatte enheter skal være eget kapittel.
-3. Bestemme om overflateareal og volum skal stå alene eller integreres med måling.
-4. Avklare om boka skal ha en kort innledende repetisjonsdel eller repetisjon integrert i hvert kapittel.
-5. Avklare forventet omfang og undervisningstid med lærere som kjenner 9. trinn.
+1. Kontrollere forventet forkunnskap hos faktiske 9.-trinnselever og lærere.
+2. Bestemme om kapittel 1 skal være et kort selvstendig kapittel eller en kompakt målingsdel som også knyttes til kapittel 4.
+3. Bestemme hvilke 3D-figurer som skal prioriteres i kapittel 4.
+4. Velge programmeringsmiljø og omfang for kapittel 6.
+5. Avklare forventet undervisningstid og omfang med lærere.
+6. Gjennomføre pilot og bruke erfaringene til å justere struktur og maler.
+
+Ingen endelig årsplan eller publiseringsrekkefølge er vedtatt.
