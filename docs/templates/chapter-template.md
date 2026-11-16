@@ -1,66 +1,63 @@
 # Kapittel [nummer]: [tittel]
 
 > **Status:** Utkast / faglig kontroll / pedagogisk kontroll / godkjent  
-> **Kompetansemål:** [ID-er fra kompetansemålkartleggingen]  
+> **Kompetansemål:** [ID-er]  
 > **Forkunnskaper:** [Hva eleven trenger, og hvor det repeteres]
 
 ## Dette skal du lære
 
 Etter kapitlet skal du kunne:
 - [konkret og observerbart læringsmål]
-- [konkret og observerbart læringsmål]
 
 ## Før du begynner
 
-Kort forkunnskapssjekk. Oppgavene skal avdekke hva eleven trenger å repetere, ikke blokkere videre arbeid.
+Kort forkunnskapssjekk. Nummerer som Oppgave [kapittel].0.1, og legg fasit rett etter oppgaven.
 
-## [nummer].1 [Første faglige del]
+??? note "Fasit – oppgave [kapittel].0.1"
 
-Kort introduksjon: Hva skal eleven undersøke, og hvorfor?
+    Vis metode og mellomregning. Dobbel understrek under sluttsvaret.
 
-### Begreper og forklaring
+---
 
-Forklar nye begreper før de brukes. Gå fra konkret representasjon til matematisk språk og symboler.
+## [kapittel].1 [Første faglige del]
 
-### Eksempel 1
+Kort introduksjon. Bygg fra konkret forståelse til fagbegreper og symboler.
 
-Vis framgangsmåten steg for steg. Forklar hvorfor hvert trinn er gyldig.
+!!! important "Regel eller definisjon"
 
-## [nummer].2 [Neste faglige del]
+    Skriv regelen tydelig. Ikke bruk `\\boxed{}` eller svarte rammer rundt formelen.
 
-Bygg videre uten å forutsette at eleven har lært senere stoff.
+!!! example "Eksempel [kapittel].1.1 – [beskrivende tittel]"
 
-### Eksempel 2
-
-Vis en ny situasjon eller en annen representasjon.
+    Vis framgangsmåten steg for steg. Forklar hvorfor hvert trinn er gyldig. Dobbel understrek under sluttsvaret.
 
 ## Oppgaver
 
-### A – Kom i gang
+!!! question "Oppgave [kapittel].1.1 – [beskrivende tittel]"
 
-Oppgaver som trener ett begrep eller én metode om gangen.
+    a) [Deloppgave på egen linje]
 
-### B – Bruk kunnskapen
+    b) [Deloppgave på egen linje]
 
-Oppgaver i nye situasjoner. Opplysningene skal være tilstrekkelige, og svaret skal kunne tolkes.
+??? note "Fasit – oppgave [kapittel].1.1"
 
-### C – Tenk og begrunn
+    Vis metode og mellomregning. Dobbel understrek under sluttsvaret.
 
-Oppgaver der eleven må velge metode, forklare hvorfor eller vurdere en påstand.
+Gjenta mønsteret for hver faglige del. Oppgaver skal komme rett etter teorien de tester, ikke bare samles i slutten av kapitlet.
 
-### D – Utforsk
+## [kapittel].2 [Neste faglige del]
 
-Åpne oppgaver med systematisk variasjon, hypoteser og argumentasjon. Oppgi hva en god begrunnelse bør inneholde.
+[Samme mønster: introduksjon, teori, regelboks ved behov, eksempel, lokale oppgaver med fasit rett etter hver oppgave.]
+
+## Blandede oppgaver
+
+Brukes mot slutten av kapitlet. Her kan oppgavene kreve at eleven velger metode selv. Bruk vanskelighetsnivåene Middels, Vanskelig og Svært vanskelig bare i dette blandede settet.
 
 ## Oppsummering
 
 - [viktig begrep eller sammenheng]
 - [viktig metode]
 - [typisk fallgruve]
-
-## Løsningsforslag
-
-Vis metode og mellomregning. Ta med enheter og rimelighetskontroll der det er relevant. For åpne oppgaver: vis mulige strategier eller vurderingskriterier.
 
 ---
 
@@ -69,7 +66,11 @@ Vis metode og mellomregning. Ta med enheter og rimelighetskontroll der det er re
 - [ ] Kompetansemål og forkunnskaper kontrollert mot Udir.
 - [ ] Alle matematiske påstander og løsninger kontrollert uavhengig.
 - [ ] Oppgaveformuleringer entydige og nivåtilpasset.
-- [ ] Oppgaveprogresjon og differensiering kontrollert.
-- [ ] Figurer kontrollert for matematisk korrekthet og utskrift.
-- [ ] MathJax, mobilvisning, navigasjon og utskrift kontrollert.
+- [ ] Oppgaver følger umiddelbart etter relevant teori.
+- [ ] Fasit står rett etter hver oppgave og viser metode.
+- [ ] Nummerering følger kapittel.del.oppgave/eksempel.
+- [ ] Regelbokser, eksempler og oppgaver bruker felles komponenter.
+- [ ] Sluttsvar har dobbel understrek.
+- [ ] Figurer fungerer på mobil og i svart-hvitt-utskrift.
+- [ ] MathJax, mobilvisning, navigasjon og utskrift er kontrollert.
 - [ ] Lærer-/elevutprøving gjennomført der omfanget krever det.
