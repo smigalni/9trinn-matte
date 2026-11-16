@@ -52,12 +52,13 @@ Diagnostikken skal ikke blokkere eleven. Hvert tema får en kort lenke til repet
 - Undersøke trekant med måling, tegning og konkrete eksempler.
 - Sammenligne likebeinte og likesidede trekanter.
 - Dele trekanter i rettvinklede trekanter og undersøke hva som skjer.
-- Utforske 30°–60°–90°-trekanter og faste forhold mellom sidene.
+- Utforske trekantulikheten og sammenhenger mellom sidelengder ved hjelp av tegning og konkrete eksempler.
 - Elevene formulerer en påstand, tester den på flere eksempler og begrunner hva de mener kan generaliseres.
 - Eventuelle mer avanserte sammenhenger merkes som utforsking/fordypning, ikke som forutsetning for alle.
 
 ### 3.3 Pytagoras' læresetning
 - Oppdage sammenhengen mellom kvadratene på sidene i en rettvinklet trekant.
+- Etter introduksjonen av Pytagoras: bruke læresetningen til å begrunne sideforholdet i 30°–60°–90°-trekanter.
 - Introdusere hypotenus og kateter tydelig.
 - Begrunne formelen visuelt før rutinemessig bruk.
 - Finne ukjent hypotenus eller katet.
