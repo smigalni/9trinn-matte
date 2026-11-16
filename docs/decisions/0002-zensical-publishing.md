@@ -21,8 +21,10 @@ Bruk Zensical som publiseringsrammeverk for den første prototypen av `9trinn-ma
 ## Konsekvenser og begrensninger
 
 - Konfigurasjonen følger foreløpig mønsteret i `tmatte`.
+- Zensical-versjonen er låst til `0.1.1` i `requirements.txt` for reproducerbare bygg. Versjonsoppgraderinger skal gjøres bevisst etter kontroll av changelog.
 - Felles CSS er foreløpig en lokal førsteimplementasjon. Den skal senere synkroniseres eller distribueres kontrollert fra `math-platform`, slik at bøkene ikke utvikler ulike designstandarder.
 - Lærerinnlogging og AI-funksjoner ligger utenfor en ren statisk bok og skal vurderes som egne systemkomponenter senere.
+- GitHub Actions har en build-workflow som skal kjøre `zensical build` på pull requests og push til `main`.
 - GitHub Pages-deploy er ikke konfigurert eller testet i denne beslutningen.
 
 ## Reversering
