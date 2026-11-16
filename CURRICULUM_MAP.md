@@ -2,19 +2,17 @@
 
 ## Gjeldende læreplan
 
-Prosjektet skal bruke **Læreplan i matematikk 1.–10. trinn (MAT01-06)** fra Utdanningsdirektoratet.
+Prosjektet bruker **Læreplan i matematikk 1.–10. trinn (MAT01-06)** fra Utdanningsdirektoratet. Denne versjonen gjelder fra 1. august 2026. MAT01-05 er utgått og skal ikke brukes som gjeldende grunnlag.
 
-- Gjeldende læreplan: https://www.udir.no/lk20/mat01-06
-- Kompetansemål etter 8. trinn: https://www.udir.no/lk20/mat01-06/kompetansemaal-og-vurdering/kv1027?lang=nob
-- Kompetansemål etter 9. trinn: https://www.udir.no/lk20/mat01-06/kompetansemaal-og-vurdering/kv1028?lang=nob
-- Kompetansemål etter 10. trinn: https://www.udir.no/lk20/mat01-06/kompetansemaal-og-vurdering/kv1029?lang=nob
-- Informasjon om endringen og gyldighet: https://www.udir.no/lk20/mat01-06/gyldighet-og-innfoering?lang=nob
-
-MAT01-06 gjelder fra 1. august 2026. Eldre MAT01-05 skal ikke brukes som gjeldende grunnlag for nye beslutninger.
+- [Gjeldende læreplan MAT01-06](https://www.udir.no/lk20/mat01-06)
+- [Kompetansemål etter 8. trinn](https://www.udir.no/lk20/mat01-06/kompetansemaal-og-vurdering/kv1027?lang=nob)
+- [Kompetansemål etter 9. trinn](https://www.udir.no/lk20/mat01-06/kompetansemaal-og-vurdering/kv1028?lang=nob)
+- [Kompetansemål etter 10. trinn](https://www.udir.no/lk20/mat01-06/kompetansemaal-og-vurdering/kv1029?lang=nob)
+- [Gyldighet og innføring](https://www.udir.no/lk20/mat01-06/gyldighet-og-innfoering?lang=nob)
 
 ## Kompetansemål etter 9. trinn
 
-Følgende mål skal dekkes i boka. Formuleringene nedenfor er en arbeidsoversikt; den offisielle ordlyden og tilhørende forklaringstekster finnes hos Udir.
+Boka skal dekke alle disse målene. Dette er en redaksjonell arbeidsoversikt, ikke en erstatning for Udirs offisielle ordlyd og forklaringstekster.
 
 1. Lage og løse problemer som handler om sammensatte måleenheter.
 2. Utforske egenskapene ved ulike todimensjonale figurer og forklare begrepene formlikhet og kongruens.
@@ -28,36 +26,38 @@ Følgende mål skal dekkes i boka. Formuleringene nedenfor er en arbeidsoversikt
 10. Beregne og vurdere sannsynlighet i statistikk og spill.
 11. Simulere utfall i tilfeldige forsøk og beregne sannsynligheten for at noe skal inntreffe ved å bruke programmering.
 
-Udir forklarer blant annet at sentralmål omfatter gjennomsnitt, typetall og median, og at spredningsmål her omfatter variasjonsbredde. Forklaringstekstene til kompetansemålene skal brukes aktivt i den faglige planleggingen.
+Udir presiserer at sentralmål omfatter gjennomsnitt, typetall og median, og at spredningsmål i dette målet viser til variasjonsbredde. Forklaringstekstene til målene skal leses og brukes aktivt.
 
-## Progresjonsprinsipp
+## Progresjon gjennom 8.–10. trinn
 
-Kompetansemålene etter 9. trinn skal ikke behandles isolert. Før kapittelstrukturen fastsettes, skal vi kartlegge:
+Tabellen er en faglig syntese av kompetansemålene. Den viser hovedtyngde og sammenhenger, ikke en påstand om at et tema bare kan undervises på ett bestemt trinn.
 
-- Hva eleven forventes å ha arbeidet med etter 8. trinn.
-- Hva som skal introduseres, videreutvikles og mestres på 9. trinn.
-- Hva kompetansemålene etter 10. trinn bygger videre på.
-- Hvilke forkunnskaper som må repeteres eller bygges opp.
-- Hvilke ferdigheter og begreper som går på tvers av geometri, måling, statistikk, sannsynlighet, algebra og programmering.
-
-## Kompetansemålmatrise – arbeidsstatus
-
-| Område | 8. trinn | 9. trinn | 10. trinn |
+| Område | 8. trinn – bygge grunnlag | 9. trinn – utvikle og anvende | 10. trinn – videreutvikle |
 |---|---|---|---|
-| Algebra og tall | Må kartlegges fra Udir | Forkunnskaper og algebraiske argumenter i geometri | Må kartlegges fra Udir |
-| Geometri | Må kartlegges fra Udir | Todimensjonale figurer, formlikhet, kongruens, Pytagoras og trekanter | Må kartlegges fra Udir |
-| Måling | Må kartlegges fra Udir | Sammensatte måleenheter, overflateareal og volum | Må kartlegges fra Udir |
-| Statistikk | Må kartlegges fra Udir | Sentralmål, spredningsmål og kritisk vurdering av data | Må kartlegges fra Udir |
-| Sannsynlighet | Må kartlegges fra Udir | Sannsynlighet og simulering med programmering | Må kartlegges fra Udir |
-| Funksjoner og programmering | Må kartlegges fra Udir | Programmering inngår eksplisitt i simulering av tilfeldige forsøk | Må kartlegges fra Udir |
+| Tall og regning | Potenser, kvadratrøtter, regneegenskaper, faktorisering, primtallsfaktorisering og brøkregning | Bruke sikre regneferdigheter i måling, geometri, statistikk og sannsynlighet | Generalisere regneregler algebraisk, også for brøker, potenser og kvadratrøtter |
+| Algebra | Uttrykk med variabler og konstanter; mønstre; likninger og ulikheter | Bruke algebraisk resonnering i geometriske problemstillinger og undersøke hvordan forutsetninger påvirker løsninger | Kvadratsetninger, ligningssett og algebraisk generalisering |
+| Funksjoner | Utforske praktiske funksjoner og veksle mellom situasjon, tabell, graf og uttrykk | Ikke et eget eksplisitt 9.-trinnsmål; representasjoner og funksjonstenkning kan brukes som støtte der det er faglig naturlig | Sammenligne lineære funksjoner, eksponentialfunksjoner, brøkfunksjoner og andregradsfunksjoner; stigningstall og vekstfaktor |
+| Geometri | Geometriske mønstre og algebraisk generalisering | Todimensjonale figurer, formlikhet, kongruens, Pytagoras, trekantrelasjoner og geometriske «hva hvis»-problemstillinger | Geometrisk og algebraisk bruk av kvadratsetningene; modellering på tvers av områder |
+| Måling | Måleforståelse og regneferdigheter fra tidligere trinn må kartlegges nærmere | Sammensatte måleenheter, overflateareal og volum | Praktisk modellering og personlig økonomi kan kreve måling og enhetsforståelse i kontekst |
+| Statistikk og data | Datasett og representasjoner må ses i sammenheng med tidligere opplæring; 8.-trinnsmålene på denne siden har ikke egne eksplisitte statistikkmål | Sentralmål, variasjonsbredde, egne og reelle datasett, kritisk vurdering av medieframstillinger og hvordan data kan brukes til å påvirke synspunkter | Statistiske problemstillinger inngår i bredere modellering og kritisk vurdering |
+| Sannsynlighet | Ikke et eksplisitt kompetansemål etter 8. trinn i denne læreplanversjonen | Beregne og vurdere sannsynlighet; simulere tilfeldige forsøk med programmering | Kan inngå i videre utforsking og modellering |
+| Programmering | Skape, teste og forbedre algoritmer | Bruke programmering til simulering av tilfeldige forsøk | Utforske matematiske egenskaper og sammenhenger ved programmering; lese og forklare tekstbasert Python-kode |
 
-**Viktig:** Matrisen er ikke ferdig. Den skal fylles ut ved å lese alle kompetansemål og relevante forklaringstekster i MAT01-06 for 8., 9. og 10. trinn. Ikke trekk slutninger om at et tema er nytt eller ferdig lært bare fordi det ikke står eksplisitt i 9.-trinnsmålene.
+**Viktig presisering:** Fravær av et eksplisitt mål på ett trinn betyr ikke automatisk at eleven aldri har møtt temaet tidligere, eller at det ikke kan brukes på tvers av fagområder. Planleggingen skal bygge på Udirs samlede læreplan og elevenes faktiske forkunnskaper.
 
-## Krav før kapittelstruktur godkjennes
+## Tolkning av 9. trinn
 
-- Alle 9.-trinnsmål er koblet til ett eller flere kapitler/seksjoner.
-- Forkunnskaper fra 8. trinn er identifisert.
-- Videre progresjon mot 10. trinn er dokumentert.
-- Tverrgående ferdigheter, representasjoner, regning, resonnering og programmering er ivaretatt.
-- Det er tydelig hva eleven skal kunne gjøre, ikke bare hvilke temaord som er nevnt.
-- Kapittelrekkefølgen er pedagogisk begrunnet og kan brukes i en årsplan.
+Læreplanens eksplisitte tyngdepunkt etter 9. trinn ligger i geometri og måling, statistikk og sannsynlighet. Programmering er knyttet konkret til simulering av tilfeldige forsøk. Algebraisk resonnering er likevel nødvendig i geometriske problemstillinger, og regneferdigheter må brukes på tvers av alle områdene.
+
+Dette betyr ikke at boka skal bli en ren «geometri- og statistikkbok». Den må også gi nødvendig repetisjon og støtte i tall, brøk, algebra, enheter, representasjoner og programmering når dette er nødvendig for å nå kompetansemålene.
+
+## Videre arbeid før kapittelstruktur
+
+1. Kontrollere alle kompetansemål og relevante forklaringstekster på Udir, ikke bare overskriftene.
+2. Lage en sporbar matrise med ID, ordlyd, forklaring, forkunnskaper, planlagt plassering og vurderingsform for hvert mål.
+3. Identifisere begreper og ferdigheter som må repeteres fra 8. trinn.
+4. Identifisere hva 9. trinn skal bidra med før målene etter 10. trinn.
+5. Foreslå flere mulige kapittelstrukturer og vurdere dem mot progresjon, undervisningspraksis og utskriftsbruk.
+6. Velge struktur først etter denne analysen.
+
+Ingen endelig årsplan eller kapittelrekkefølge er vedtatt ennå.
