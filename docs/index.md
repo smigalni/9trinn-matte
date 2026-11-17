@@ -1,17 +1,15 @@
 # Matematikk på 9. trinn
 
-Velkommen til en digital lærebok i matematikk for 9. trinn.
+Velkommen til den digitale læreboken i matematikk for 9. trinn.
 
-Her skal du finne forklaringer, gjennomarbeidede eksempler og oppgaver som hjelper deg å forstå matematikken og bruke den i ulike situasjoner.
+Boken er under utvikling. Vi starter med et pilotkapittel om trekanter, Pytagoras og geometriske undersøkelser.
 
-!!! note "Under utvikling"
-    Boka er i etableringsfasen. Innhold publiseres først når det er faglig, pedagogisk og teknisk kvalitetssikret.
+## Kapittel 3 – Trekanter og Pytagoras
 
-## Slik skal boka fungere
+I dette kapitlet arbeider du med trekanttyper, sidelengder, Pytagoras, formlikhet og geometriske problemstillinger.
 
-- Les forklaringene og følg eksemplene steg for steg.
-- Prøv oppgavene selv før du ser på løsningsforslaget.
-- Bruk gjerne papir og blyant til mellomregning.
-- Forklar med egne ord hvorfor metoden virker.
+[**Gå til kapittel 3**](chapters/ch03-triangles.md)
 
-Boka skal være gratis å bruke og skal også kunne skrives ut.
+---
+
+Boken skal være gratis å bruke og skal også kunne skrives ut.
