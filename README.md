@@ -27,7 +27,7 @@ Før vi lager bokstruktur og innhold, skal vi:
 
 - [Visjon](VISION.md)
 - [Produktplan](BOOK_PLAN.md)
-- [Læreplan og progresjon](CURRICULUM_MAP.md)
+- [Læreplan og progresjon](docs/curriculum_map.md)
 - [Sporbar kompetansemålkartlegging](docs/curriculum/9th-grade-coverage.md)
 - [Kapittelstruktur – seks kapitler som arbeidsgrunnlag](docs/architecture/chapter-map-proposal.md)
 - [ADR 0002 – seks hovedkapitler](docs/architecture/adr-0002-six-chapters.md)
