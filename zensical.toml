@@ -12,7 +12,16 @@ extra_javascript = [
 
 nav = [
   { "Hjem" = "index.md" },
-  { "Kapittel 3 – Trekanter og Pytagoras" = "chapters/ch03-triangles.md" },
+  { "Kapittel 3 – Trekanter og Pytagoras" = [
+    { "Oversikt" = "chapters/ch03-triangles.md" },
+    { "3.1 Hva vet vi om trekanter?" = "chapters/ch03-01-triangles.md" },
+    { "3.2 Sammenhenger mellom sidelengdene" = "chapters/ch03-02-side-lengths.md" },
+    { "3.3 Pytagoras' læresetning" = "chapters/ch03-03-pythagoras.md" },
+    { "3.4 Spesielle trekantforhold" = "chapters/ch03-04-special-triangles.md" },
+    { "3.5 Formlikhet i praktiske situasjoner" = "chapters/ch03-05-similarity.md" },
+    { "3.6 Hva hvis vi endrer forutsetningene?" = "chapters/ch03-06-investigations.md" },
+    { "3.7 Blandede oppgaver" = "chapters/ch03-07-mixed-exercises.md" },
+  ] },
 ]
 
 # Interne arbeidsdokumenter skal ikke bygges eller vises i elevboken.
