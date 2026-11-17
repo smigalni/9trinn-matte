@@ -46,7 +46,7 @@ Før vi lager bokstruktur og innhold, skal vi:
 
 ```powershell
 py -m venv .venv
-.\\.venv\\Scripts\\Activate.ps1
+.\.venv\Scripts\Activate.ps1
 python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
 zensical serve
