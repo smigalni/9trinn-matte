@@ -1,6 +1,6 @@
 # Sporbar kompetansemålkartlegging – 9. trinn
 
-**Kildegrunnlag:** Gjeldende læreplan MAT01-06, kompetansemål etter 8., 9. og 10. trinn samt Udirs forklaringstekster. Se [CURRICULUM_MAP.md](../../CURRICULUM_MAP.md) for versjon og hovedoversikt.
+**Kildegrunnlag:** Gjeldende læreplan MAT01-06, kompetansemål etter 8., 9. og 10. trinn samt Udirs forklaringstekster. Se [CURRICULUM_MAP.md](../curriculum_map.md) for versjon og hovedoversikt.
 
 Dette dokumentet bryter målene etter 9. trinn ned til faglige arbeidsområder. Det er en redaksjonell analyse, ikke en offisiell tolkning eller kapittelrekkefølge fra Udir.
 
