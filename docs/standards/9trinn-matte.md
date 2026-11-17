@@ -61,6 +61,17 @@ Dette dokumentet supplerer de felles standardene i [math-platform](https://githu
 - Godkjent redaksjonelt bokinnhold skal holdes adskilt fra lærerprodusert og ikke-godkjent AI-innhold.
 
 
+## Kapittelarkitektur og sidemønster – obligatorisk
+
+- Bruk kapittel 3 i R1-boken (`smigalni/matte`) som strukturell referanse, ikke bare som visuell inspirasjon.
+- Hvert nummererte delkapittel skal være en egen Markdown-fil og en egen oppføring under kapittelet i navigasjonen. Ikke samle hele kapittel 3.x i én lang Markdown-side.
+- Ha en egen oversiktsside for kapitlet med kort introduksjon, læringsmål, forkunnskaps-/inngangssjekk og lenker til delkapitlene. Oversiktssiden skal ikke erstatte delkapittelsidene.
+- Bruk hierarkisk navigasjon: kapittel som overordnet gruppe, deretter oversikt og nummererte delkapitler i riktig rekkefølge. Blandede oppgaver og kapittelprøve skal være egne sider når de inngår i kapittelplanen.
+- Hver delkapittelside skal ha én tydelig H1-overskrift med nummer og tittel. Bygg siden med en kort faglig inngang, trinnvis teori i logiske underoverskrifter, relevante figurer/undersøkelser, tydelige regelbokser der det er nødvendig, gjennomarbeidede eksempler, lokale oppgaver og fasit rett etter hver oppgave. Bruk læringsmål eller kort repetisjon når det er relevant for delkapitlet.
+- Ikke tving inn en regelboks eller et eksempel der fagstoffet ikke trenger det. Men når en regel eller et fullstendig regneeksempel finnes, skal det bruke de etablerte boksene.
+- Nummerering av eksempler og oppgaver følger kapittel.del.løpenummer og starter på nytt i hvert delkapittel.
+- Før du oppretter en ny struktur, undersøk den tilsvarende strukturen i R1-boken og gjenbruk den. Avvik skal være bevisste, begrunnet i alderstrinn/faglig innhold og dokumentert – ikke tilfeldige.
+
 ## Struktur og nummerering – tillegg for elevkapitler
 
 - Følg alltid de nyeste fellesstandardene i `math-platform/docs/standards/`, særlig `design.md`, `pedagogy.md` og `quality.md`. Disse har forrang ved felles visuell og pedagogisk utforming.
