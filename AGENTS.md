@@ -12,6 +12,9 @@ Dette repoet inneholder lærebokinnhold for 9. trinn. Les disse filene før du a
 
 ## Ufravikelige regler
 
+- Følg kapittelarkitekturen i R1-boken: ett Markdown-dokument per nummererte delkapittel, hierarkisk kapittelnavigasjon og egen oversiktsside. Hele kapitler skal ikke samles i én lang fil.
+- Bruk R1 kapittel 3.1 som mal for pedagogisk og visuell oppbygning, og de øvrige delkapitlene i R1 kapittel 3 som referanse for variasjon. Se også `docs/standards/9trinn-matte.md`.
+
 - Bruk gjeldende læreplan MAT01-06 og kontroller Udir ved læreplanavhengige oppgaver.
 - Ikke finn på kompetansemål, forkunnskaper eller faglige krav.
 - Følg vedtatte beslutninger. Skill mellom vedtatt arbeidsgrunnlag, endelig godkjent innhold og forslag.
