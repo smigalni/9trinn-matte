@@ -12,6 +12,7 @@ extra_javascript = [
 
 nav = [
   { "Hjem" = "index.md" },
+  { "Læreplan og progresjon" = "curriculum_map.md" },
 ]
 
 [project.theme]
