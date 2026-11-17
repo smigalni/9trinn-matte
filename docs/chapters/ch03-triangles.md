@@ -1,7 +1,5 @@
 # Kapittel 3: Trekanter, Pytagoras og geometriske undersøkelser
 
-> **Status:** Revidert utkast – ikke godkjent for publisering  
-> **Kompetansemål:** M9-03, M9-04 og M9-05  
 > **Forkunnskaper:** Trekantbegreper, vinkler, forhold, kvadrering, kvadratrøtter og enkel algebra. Nødvendige forkunnskaper repeteres underveis.
 
 ## Dette skal du lære
@@ -920,15 +918,4 @@ I disse oppgavene må du selv vurdere hvilke begreper og metoder som passer. Noe
 - I en 30°–60°–90°-trekant er sideforholdet $1:\sqrt{3}:2$.
 - Formlikhet betyr at tilsvarende vinkler er like, og at forholdet mellom tilsvarende sider er konstant.
 - Når vi undersøker hva som skjer ved endrede forutsetninger, bør vi endre én ting om gangen og begrunne resultatet.
-
----
-
-## Redaksjonell og faglig kontroll – ikke elevinnhold
-
-- [ ] Alle kompetansemål er kontrollert mot gjeldende Udir-tekst.
-- [ ] Alle matematiske påstander, eksempler, oppgaver og fasitsvar er kontrollert uavhengig.
-- [ ] Lærerreview av nivå, omfang og progresjon er gjennomført.
-- [ ] Elevutprøving er gjennomført.
-- [ ] Mobilvisning, navigasjon, MathJax og utskrift er kontrollert.
-- [ ] Alle figurer er kontrollert i skjermvisning og svart-hvitt-utskrift.
 
