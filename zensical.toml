@@ -12,8 +12,21 @@ extra_javascript = [
 
 nav = [
   { "Hjem" = "index.md" },
-  { "Læreplan og progresjon" = "curriculum_map.md" },
+  { "Kapittel 3 – Trekanter og Pytagoras" = "chapters/ch03-triangles.md" },
 ]
+
+# Interne arbeidsdokumenter skal ikke bygges eller vises i elevboken.
+exclude_docs = """
+/ai/
+/architecture/
+/curriculum/
+/decisions/
+/standards/
+/templates/
+/chapters/ch03-pedagogical-review.md
+/chapters/ch03-pilot-spec.md
+/curriculum_map.md
+"""
 
 [project.theme]
 language = "nb"
