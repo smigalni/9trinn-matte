@@ -6,13 +6,14 @@ Dette repoet eier innholdet for 9. trinn. Det er selvstendig fra bøkene for 8. 
 
 ## Status
 
-**Etablering – ingen kapitler er produsert eller godkjent ennå.** Den tekniske prototypen bruker Zensical, i tråd med `matte` og `tmatte`.
+**Pilotfase – kapittel 3 er skrevet som et første elevrettet utkast, men er ikke faglig eller pedagogisk godkjent for publisering.** Nettstedet bruker Zensical, i tråd med `matte` og `tmatte`.
 
-Før vi lager bokstruktur og innhold, skal vi:
-1. Kartlegge gjeldende læreplan MAT01-06 og progresjonen fra 8. via 9. til 10. trinn.
-2. Lage en kompetansemålmatrise og en begrunnet års-/kapittelstruktur.
-3. Fastsette bokspesifikke pedagogiske og redaksjonelle standarder.
-4. Lage og teste et pilotkapittel før full produksjon.
+Elevvisningen skal bare inneholde lærestoff. Læreplananalyse, kapittelplaner, standarder, AI-instruksjoner og redaksjonelle vurderinger er interne arbeidsdokumenter og skal ikke bygges inn i elevboken.
+
+Arbeidet videreføres slik:
+1. Revidere pilotkapittel 3 etter lærerreview og kontrollere alle matematiske oppgaver og løsninger.
+2. Kontrollere figurer, MathJax, mobilvisning og utskrift.
+3. Bruke erfaringene fra piloten til å fastsette endelig kapittelstruktur og produsere resten av boken.
 
 ## Produktretning
 
