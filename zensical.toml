@@ -1,0 +1,58 @@
+[project]
+site_name = "9. trinn – matematikk"
+site_description = "Gratis digitale forklaringer, eksempler og oppgaver i matematikk for 9. trinn"
+site_author = "9trinn-matte"
+site_url = "https://smigalni.github.io/9trinn-matte/"
+docs_dir = "docs"
+extra_css = ["stylesheets/extra.css"]
+extra_javascript = [
+  "javascripts/mathjax.js",
+  "https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js",
+]
+
+nav = [
+  { "Hjem" = "index.md" },
+  { "Kapittel 3 – Trekanter og Pytagoras" = [
+    { "Oversikt" = "chapters/ch03-triangles.md" },
+    { "3.1 Hva vet vi om trekanter?" = "chapters/ch03-01-triangles.md" },
+    { "3.2 Sammenhenger mellom sidelengdene" = "chapters/ch03-02-side-lengths.md" },
+    { "3.3 Pytagoras' læresetning" = "chapters/ch03-03-pythagoras.md" },
+    { "3.4 Spesielle trekantforhold" = "chapters/ch03-04-special-triangles.md" },
+    { "3.5 Formlikhet i praktiske situasjoner" = "chapters/ch03-05-similarity.md" },
+    { "3.6 Hva hvis vi endrer forutsetningene?" = "chapters/ch03-06-investigations.md" },
+    { "3.7 Blandede oppgaver" = "chapters/ch03-07-mixed-exercises.md" },
+  ] },
+]
+
+# Interne arbeidsdokumenter skal ikke bygges eller vises i elevboken.
+exclude_docs = """
+/ai/
+/architecture/
+/curriculum/
+/decisions/
+/standards/
+/templates/
+/chapters/ch03-pedagogical-review.md
+/chapters/ch03-pilot-spec.md
+/curriculum_map.md
+"""
+
+[project.theme]
+language = "nb"
+features = [
+  "navigation.sections",
+  "navigation.top",
+  "search.highlight",
+]
+
+[project.markdown_extensions]
+admonition = {}
+pymdownx.arithmatex.generic = true
+pymdownx.details = {}
+pymdownx.superfences = {}
+pymdownx.tasklist.custom_checkbox = true
+md_in_html = {}
+
+[project.theme.palette]
+primary = "indigo"
+accent = "teal"

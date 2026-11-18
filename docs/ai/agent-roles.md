@@ -47,4 +47,4 @@ Første kandidater:
 - `review-pedagogy`: kontroller nivå og læringsprogresjon.
 - `review-rendered-book`: kontroller bygget bok visuelt og teknisk.
 
-Dette er foreløpig en spesifikasjon. Skills er ikke implementert som kjørbare prosjektfiler ennå.
+Dette er en første spesifikasjon av rollene. Den første gjenbrukbare skill-instruksen er opprettet i `ai/skills/map-curriculum/SKILL.md`. Den er en versjonskontrollert arbeidsinstruks som kan lastes av en agent; den er ikke i seg selv en kjørende agent eller et separat runtime-system. De øvrige skills utvikles når tilsvarende arbeidsflyter er modne.
