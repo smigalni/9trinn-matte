@@ -106,9 +106,7 @@ Tegn to likebeinte trekanter med ulik toppvinkel. Mål grunnvinklene i begge tre
 
 !!! question "Oppgave 3.1.3 – Begrunn en egenskap"
 
-    En elev måler en likebeint trekant og finner at grunnvinklene er omtrent $54^\circ$.
-
-    Forklar hvorfor grunnvinklene må være like store også i en likebeint trekant som eleven ikke har målt.
+    I en likebeint trekant er de to sidene fra toppunktet like lange. Forklar, ved å dele trekanten i to, hvorfor vinklene ved grunnlinjen må være like store.
 
 ??? note "Fasit – oppgave 3.1.3"
 
