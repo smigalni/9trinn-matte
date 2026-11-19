@@ -66,7 +66,7 @@ Dette dokumentet supplerer de felles standardene i [math-platform](https://githu
 - Bruk kapittel 3 i R1-boken (`smigalni/matte`) som strukturell referanse, ikke bare som visuell inspirasjon.
 - Hvert nummererte delkapittel skal være en egen Markdown-fil og en egen oppføring under kapittelet i navigasjonen. Ikke samle hele kapittel 3.x i én lang Markdown-side.
 - Ha en egen oversiktsside for kapitlet med kort introduksjon, læringsmål, forkunnskaps-/inngangssjekk og lenker til delkapitlene. Oversiktssiden skal ikke erstatte delkapittelsidene.
-- Bruk hierarkisk navigasjon: kapittel som overordnet gruppe, deretter oversikt og nummererte delkapitler i riktig rekkefølge. Blandede oppgaver og kapittelprøve skal være egne sider når de inngår i kapittelplanen.
+- Bruk hierarkisk navigasjon: kapittel som overordnet gruppe, deretter oversikt og nummererte delkapitler i riktig rekkefølge. Blandede oppgaver, kapitteltest og muntlig forberedelse skal være egne sider når de inngår i kapittelplanen.
 - Hver delkapittelside skal ha én tydelig H1-overskrift med nummer og tittel. Bygg siden med en kort faglig inngang, trinnvis teori i logiske underoverskrifter, relevante figurer/undersøkelser, tydelige regelbokser der det er nødvendig, gjennomarbeidede eksempler, lokale oppgaver og fasit rett etter hver oppgave. Bruk læringsmål eller kort repetisjon når det er relevant for delkapitlet.
 - Ikke tving inn en regelboks eller et eksempel der fagstoffet ikke trenger det. Men når en regel eller et fullstendig regneeksempel finnes, skal det bruke de etablerte boksene.
 - Nummerering av eksempler og oppgaver følger kapittel.del.løpenummer og starter på nytt i hvert delkapittel.
@@ -83,3 +83,5 @@ Dette dokumentet supplerer de felles standardene i [math-platform](https://githu
 - I blandede oppgavesett kan nivåoverskriftene være Middels, Vanskelig og Svært vanskelig. Vanskelighetsfargene skal ikke brukes på vanlige oppgaver i en teoriseksjon.
 - Ikke bruk svarte rammer rundt formler i blå regelbokser. Sluttsvar skal ha dobbel understrek.
 - Kapittelsidene skal være selvstendige og fungere på mobil, PC og i utskrift. Ikke la formateringsmarkeringer lekke inn i navigasjon eller innholdsfortegnelse.
+- Hvert ferdig kapittel skal ha en egen kapitteltest som dekker bredden i kapitlet, og en egen side med muntlig forberedelse: sentrale begreper, forklarings- og begrunnelsesoppgaver, metodevalg og samtaletrening. Fasiter skal være tilgjengelige i sammenfoldede felt.
+- Boka skal ha ett samlet, kompakt formelark bakerst. Det skal bare inneholde formler og sammenhenger som faktisk er introdusert i boka, organiseres etter tema og utvides når nye kapitler blir ferdige. Utformingen skal fungere på én utskrivbar side når det er faglig forsvarlig.
