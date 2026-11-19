@@ -4,7 +4,7 @@ Dette er en kort oversikt over formler og sammenhenger i kapitlene som foreløpi
 
 ## Trekanter
 
-<|---|>
+---
 **Vinkelsum**
 
 $$
@@ -31,7 +31,7 @@ Alle sidene er like lange, og alle vinklene er $60^\circ$.
 
 Gjelder bare i rettvinklede trekanter.
 
-<|---|>
+---
 $$
 a^2+b^2=c^2
 $$
