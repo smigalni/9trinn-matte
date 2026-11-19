@@ -17,7 +17,7 @@ To sider i en trekant er 7,2 cm og 11,5 cm. Den tredje siden har et helt antall 
 
 a) Bestem alle mulige lengder den tredje siden kan ha.
 
-b) En elev foreslår 18 cm. Forklar presist hvorfor dette ikke går.
+b) En elev hevder at 18 cm ikke er mulig. Forklar presist hvorfor eleven tar feil.
 
 c) Hvor mange mulige heltallige lengder finnes det?
 
