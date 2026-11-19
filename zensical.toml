@@ -21,6 +21,10 @@ nav = [
     { "3.5 Formlikhet i praktiske situasjoner" = "chapters/ch03-05-similarity.md" },
     { "3.6 Hva hvis vi endrer forutsetningene?" = "chapters/ch03-06-investigations.md" },
     { "3.7 Blandede oppgaver" = "chapters/ch03-07-mixed-exercises.md" },
+    { "3.8 Kapitteltest" = "chapters/ch03-08-kapitteltest.md" },
+    { "3.9 Muntlig forberedelse" = "chapters/ch03-09-muntlig-forberedelse.md" },
+  ] },
+  { "Formelark" = "formelark.md" },
   ] },
 ]
 
