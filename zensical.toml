@@ -25,7 +25,6 @@ nav = [
     { "3.9 Muntlig forberedelse" = "chapters/ch03-09-muntlig-forberedelse.md" },
   ] },
   { "Formelark" = "formelark.md" },
-  ] },
 ]
 
 # Interne arbeidsdokumenter skal ikke bygges eller vises i elevboken.
