@@ -1,7 +1,5 @@
 # Kapittelprøve 3 – Trekanter og Pytagoras
 
-<text></text>
-
 **Nivå:** Krevende  
 **Arbeidstid:** 90 minutter  
 **Poeng:** 50 poeng  
@@ -13,7 +11,7 @@ Dette er en krevende prøve. Den tester ikke bare om du kan bruke formler, men o
 
 ## Del A – Presisjon og metodevalg
 
-### Oppgave 3.K.1 – Trekanten som nesten ikke finnes (5 poeng)
+### Oppgave 3.K.1 – Trekanten som nesten ikke finnes (6 poeng)
 
 To sider i en trekant er 7,2 cm og 11,5 cm. Den tredje siden har et helt antall centimeter.
 
@@ -42,7 +40,7 @@ c) Hvor mange mulige heltallige lengder finnes det?
 
     Det er 14 muligheter. Lengden 18 cm er faktisk mulig fordi $7,2+11,5=18,7>18$. En elev som hevder at 18 cm ikke går, har brukt ulikheten feil.
 
-### Oppgave 3.K.2 – Finn feilen (5 poeng)
+### Oppgave 3.K.2 – Finn feilen (6 poeng)
 
 En trekant har sidene 8 cm, 15 cm og 17 cm. En elev skriver:
 
@@ -71,7 +69,7 @@ Hvem har rett? Vurder begge påstandene, og forklar forskjellen mellom Pytagoras
 
 ## Del B – Kombiner flere ideer
 
-### Oppgave 3.K.3 – En trekant med en skjult rett vinkel (7 poeng)
+### Oppgave 3.K.3 – En trekant med en skjult rett vinkel (8 poeng)
 
 Trekant $ABC$ har sidene $AB=13$ cm, $AC=14$ cm og $BC=15$ cm. Høyden fra $A$ treffer siden $BC$ i punktet $D$.
 
@@ -136,7 +134,7 @@ d) Finn arealet av trekanten $ABC$.
     \underline{\underline{A=84\text{ cm}^2}}
     $$
 
-### Oppgave 3.K.4 – Formlikhet og Pytagoras i samme problem (7 poeng)
+### Oppgave 3.K.4 – Formlikhet og Pytagoras i samme problem (8 poeng)
 
 En loddrett lyktestolpe kaster en skygge på 8 m. Samtidig står en loddrett pinne på 1,5 m og kaster en skygge på 2 m. Bakken er plan, og solstrålene kan regnes som parallelle.
 
@@ -169,7 +167,7 @@ d) En elev bruker Pytagoras direkte på høyden 1,5 m og skyggen 2 m for å finn
 
     d) Pytagoras på den lille trekanten gir avstanden fra toppen av pinnen til skyggeenden, ikke høyden på lyktestolpen. Først må vi bruke formlikhet for å finne høyden på stolpen.
 
-### Oppgave 3.K.5 – Når en trekant blir umulig (6 poeng)
+### Oppgave 3.K.5 – Når en trekant blir umulig (7 poeng)
 
 En rettvinklet trekant har kateter $a$ og $b$ og hypotenus 13 cm. Den ene kateten er 5 cm.
 
@@ -210,7 +208,7 @@ d) Forklar hvorfor hypotenusen blir lengre når $d$ øker, så lenge trekanten e
 
 ## Del C – Bevis og generalisering
 
-### Oppgave 3.K.6 – Bevis en påstand om formlikhet (8 poeng)
+### Oppgave 3.K.6 – Bevis en påstand om formlikhet (9 poeng)
 
 To trekanter er formlike. Forholdet mellom tilsvarende sider fra den lille til den store trekanten er $k$, der $k>0$.
 
